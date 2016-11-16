@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-10-28">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="dd1" title="baseColor" type="string"></attribute>
+      <attribute id="dd3" title="baseType" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="n0" label="A">
+        <attvalues>
+          <attvalue for="dd1" value="red"></attvalue>
+          <attvalue for="dd3" value="disease"></attvalue>
+        </attvalues>
+        <viz:size value="30.755253"></viz:size>
+        <viz:position x="-4561.623" y="5000.0"></viz:position>
+        <viz:color r="255" g="0" b="0"></viz:color>
+      </node>
+      <node id="n1" label="B">
+        <attvalues>
+          <attvalue for="dd1" value="blue"></attvalue>
+          <attvalue for="dd3" value="test"></attvalue>
+        </attvalues>
+        <viz:size value="17.377626"></viz:size>
+        <viz:position x="901.4367" y="-3931.5193"></viz:position>
+        <viz:color r="0" g="0" b="255"></viz:color>
+      </node>
+      <node id="n2" label="C">
+        <attvalues>
+          <attvalue for="dd1" value="green"></attvalue>
+          <attvalue for="dd3" value="procedure"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="3660.1868" y="-1068.4805"></viz:position>
+        <viz:color r="0" g="255" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="5920" source="n0" target="n1"></edge>
+      <edge id="5921" source="n0" target="n2"></edge>
+      <edge id="5922" source="n1" target="n2"></edge>
+    </edges>
+  </graph>
+</gexf>
