@@ -2,7 +2,7 @@
 
 import os
 import re
-import orange
+import Orange.orange
 
 li_edges={}
 node_number={}
@@ -48,10 +48,14 @@ for name in files:
        fp2.write(string2+"\n")
        flag =0
 
-items = orange.ExampleTable("graph")
+items = Orange.orange.ExampleTable("graph")
 
+val = raw_input("enter the value of support: ")
+val = float(val)
+print len(files)
+val  = (val*1.0)/len(files)
 # support values to be decided
-rules = orange.AssociationRulesSparseInducer(items, support = 0.0001,max_item_sets = 60000000)
+rules = Orange.orange.AssociationRulesSparseInducer(items, support = val,max_item_sets = 60000000)
 
 for r in rules:
     rule= str(r)
@@ -72,7 +76,7 @@ for r in rules:
       st=st+(rev_node_num[int(right[i])])+"? "  
     st=st[:-2]
     print st
-    print "%5.6f %5.6f" % (r.support, r.confidence)
+    print "%5.6f" % (r.support*len(files))
 
 
 
