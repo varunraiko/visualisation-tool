@@ -1,0 +1,3120 @@
+po pain medications   -> her pain
+a postoperative ct scan   -> partial decompression of the spinal canal
+percocet   -> pain
+c5-6 disc herniation   -> cord compression
+c5-6 disc herniation   -> myelopathy
+a c5-6 disc herniation   -> cord compression
+an mri   -> a c5-6 disc herniation
+an mri   -> cord compression
+an mri   -> a t2 signal change
+her exam   -> her hyperreflexia
+bipap   -> copd
+fatigue   -> generalized weakness
+ekg   -> st changes
+duoneb ( albuterol and ipratropium nebulizer )   -> shortness of breath
+duoneb ( albuterol and ipratropium nebulizer )   -> wheezing
+stress incontinence   -> symptoms
+stress incontinence   -> increased cough
+asa   -> ischemia
+iron   -> chronic fe deficiency anemia
+cxr   -> focal consolidation
+cxr   -> edema
+exam   -> diffusely wheezy
+copd   -> frequent exacerbations
+copd   -> typical flare symptoms
+copd flare   -> these symptoms
+albuterol nebulizer   -> shortness of breath
+steroids   -> flare
+2l nc   -> copd
+azithromycin   -> atypical bronchitis
+azithromycin   -> copd flare
+insulin   -> dm
+steroids   -> dm
+fever   -> headache
+any neurologic changes   -> blurry or double vision
+any neurologic changes   -> headaches
+any neurologic changes   -> trouble walking
+needle aspiration   -> purulent material
+infection   -> increased swelling
+infection   -> pain
+infection   -> redness
+chest xray   -> signs of edema
+chest xray   -> consolidation
+workup   -> his tumor
+radiation therapy   -> his laryngeal cancer
+his pathology   -> a large grade iv glioma
+decadron   -> swelling
+po pain medications   -> his pain
+resection   -> his laryngeal cancer
+ct   -> a right parietal hyperdense and heterogenously enhancing mass
+ct   -> the surrounding vasogenic edema
+glioblastoma   -> primary cns neoplasm
+open debulking   -> the tremendous tumor burden
+the tremendous tumor burden   -> his symptoms
+a 16 french coude catheter   -> an inability to void
+ativan   -> anxiety
+stulz neuro navigation   -> the tumor
+mri   -> a large heterogenous enhancing right parietal mass lesion
+mri   -> ependymal spread
+a large heterogenous enhancing right parietal mass lesion   -> ependymal spread
+prostatectomy   -> bph
+his symptoms   -> his gait weakness
+further workup   -> the mass
+a right parietal occipital craniotomy   -> the tumor
+reconstruction   -> his laryngeal cancer
+iv pain medications   -> the patient &apos;s pain
+a cg scan   -> a mass in the right parietal lobe
+a postoperative mri   -> post surgical changes
+a postoperative mri   -> remarkable findings
+debulking   -> the tumor
+a cane   -> the increasing weakness
+a cane   -> uncoordination of his feet
+repeat imaging   -> some edema
+repeat imaging   -> mass affect
+an associated weight loss   -> the pain
+no gross evidence seating in the abdominal wall   -> one nodule
+no gross evidence seating in the abdominal wall   -> one nodule
+a ct scan   -> a mass
+percocet   -> pain
+specimens   -> falciform nodules
+the procedure   -> complications
+repair   -> a ureteral stricture
+ibuprofen   -> pain
+scattered t2 hyperintense foci within the periventricular and left frontal white matter   -> small vessel disease
+scattered t2 hyperintense foci within the periventricular and left frontal white matter   -> gliosis
+scattered t2 hyperintense foci within the periventricular and left frontal white matter   -> demyelination
+auscultation   -> rales
+auscultation   -> wheezes
+an magnetic resonance imaging angiogram   -> the right parietal occipital hemorrhage
+considerable difficulty with left finger-to-nose movement   -> hemianopsia
+the computerized tomography scan   -> a right occipital hemorrhage
+a magnetic resonance imaging study   -> a large hemorrhagic lesion on the occipital lobe
+an echocardiogram   -> thrombus
+po bactrim   -> urinary tract infection
+the mra   -> mild narrowing of the left ica
+notable aphasia   -> word finding difficulty .
+cerebellar examination   -> intention tremor on the right side
+magnetic resonance imaging angiogram   -> a large hemorrhagic lesion on the occipital lobe
+a chest ct   -> left upper lobe nodules
+vasovagal activity   -> potential seizure activity
+right lower extremity swelling   -> a femoral deep venous thrombosis
+the physical examination   -> acute distress
+the extremity exam   -> 2+ pitting edema in the right lower extremity
+anticoagulation   -> metastatic melanoma
+anticoagulation   -> cns metastases
+a witnessed episode   -> some seizure activity
+a t11 metastasis   -> cord compression
+an mri scan of the spine   -> l5 metastasis
+an mri scan of the spine   -> a fracture
+his melanoma   -> lesions in the liver and spleen
+lower extremity noninvasives   -> a femoral deep venous thrombosis
+dm type ii   -> crfs
+lead placement   -> pain
+t wave flattening laterally and inferiorly   -> pain
+chest ct   -> back pain
+chest ct   -> dissection
+repeat exam   -> a firm left-sided lobe
+a nodule   -> prominence on the left
+a nodule   -> an asymmetric prostate
+transrectal ultrasound   -> a hypoechoic left-sided mass in the peripheral zone
+an ekg   -> anterolateral changes
+a biopsy   -> moderately to poorly differentiated grade iii-iv adenocarcinoma on the left
+diaphoresis   -> tachycardia
+diabeta   -> non-insulin diabetes mellitus
+his urinalysis   -> marked occult blood
+motrin   -> allergic
+a repeat ekg   -> changes
+physical exam   -> an asymmetric prostate
+physical exam   -> prominence on the left
+physical exam   -> a nodule
+on physical examination   -> acute distress
+the electrocardiogram   -> old q wave inferior myocardial infarction
+a computerized tomography scan   -> superficial mass effect
+a computerized tomography scan   -> a 1x2 thalamic capsular hemorrhage
+sore   -> stiff
+mild distortion   -> 1.5 to 2 centimeter bleed in the right thalamus
+head computerized tomography scan   -> 1.5 to 2 centimeter bleed in the right thalamus
+head computerized tomography scan   -> mild distortion
+head computerized tomography scan   -> shift
+percodan   -> allergic
+percocet   -> allergic
+the neurological examination   -> movement in the hand
+flexeril   -> muscle spasms
+vanceril   -> chronic obstructive pulmonary disease
+interstitial edema   -> small , bilateral effusions
+coumadin   -> bleeding from the mouth and nose
+electrocardiogram   -> atrial fibrillation
+electrocardiogram   -> moderate ventricular response
+electrocardiogram   -> right axis deviation
+electrocardiogram   -> right ventricular hypertrophy
+electrocardiogram   -> incomplete right bundle branch block
+electrocardiogram   -> apical infarction
+liver slightly pulsatile   -> enlarged
+atrial fibrillation   -> ventricular bigemini
+transdermal nitroglycerin   -> headache
+pulses   -> weak dorsalis pedis pulses
+potassium replacement   -> marked hyperkalemia
+a holter   -> ventricular bigemini
+a holter   -> atrial fibrillation
+chest x-ray   -> left atrial , right ventricular and pulmonary arterial enlargement
+chest x-ray   -> small , bilateral effusions
+chest x-ray   -> interstitial edema
+coumadin   -> nasal hemorrhage
+minimal mitral valve calcification   -> 2+ mitral regurgitation into a large left atrium
+interventional neuroradiology occlusion   -> nasal hemorrhage
+pulmonary capillary wedge pressure   -> markedly elevated
+narrowly physiologically split   -> accentuation
+a partial gastrectomy   -> a &quot; tumor &quot;
+pulmonary artery pressure   -> markedly elevated
+coumadin   -> epistaxis
+surgery   -> the severity of the bleed
+antibiotics   -> neutropenia
+antibiotics   -> fevers
+antibiotics   -> a diffuse erythroderm
+antibiotics   -> a drug reaction
+a diffuse erythroderm   -> a drug reaction
+intubated   -> increased respiratory distress
+intubated   -> change in mental status
+intubated   -> agitation
+a bronchoscopy   -> blood
+a bronchoscopy   -> blood in alveoli
+a bronchoscopy   -> dah
+medication   -> respiratory distress
+medication   -> the changing mental status
+the patient &apos;s pain and sedation meds   -> agitated
+a head ct   -> this continued agitation
+a head ct   -> an intraparenchymal hemorrhage
+worsening mucositis   -> the changing mental status
+worsening mucositis   -> respiratory distress
+the hematoma   -> hypertension
+a magnetic resonance imaging study   -> a small vascular malformation
+a small vascular malformation   -> the hemorrhage
+intra-parenchymal hematoma   -> mild local mass effect
+occupational therapy   -> arm and leg weakness
+occupational therapy   -> sensory deficit
+occupational therapy   -> a mild leftsided face
+heel / shin   -> a mild dysmetria on the left side
+a-line   -> her hypertension
+sensory exam   -> a mild diminution of light touch , pinprick , position , and vibration sense in the left side
+hemorrhage   -> slightly more edema and mass effect
+the workup   -> secondary cause
+3 centimeter hyperdensity   -> mild local mass effect
+3 centimeter hyperdensity   -> surrounding edema
+3 centimeter hyperdensity   -> intra-parenchymal hematoma
+the exam   -> a mild leftsided face
+the exam   -> sensory deficit
+the exam   -> arm and leg weakness
+physical therapy   -> arm and leg weakness
+physical therapy   -> sensory deficit
+physical therapy   -> a mild leftsided face
+finger / nose   -> a mild dysmetria on the left side
+nipride intravenously   -> her hypertension
+head computerized tomography scan   -> intra-parenchymal hematoma
+cerebellar hemorrhage   -> hypertension
+vaginal delivery   -> second degree laceration
+fluid amnioswab   -> fern positive
+her electrocardiogram   -> t wave inversions in the lateral leads
+gentamicin   -> klebsiella pneumoniae
+gentamicin   -> bug
+klebsiella pneumoniae   -> bug
+fluconazol   -> the thrush
+fluids administered   -> any problems
+magnetic resonance imaging studies   -> infarction in bilateral basis pontis , mid brain , the superior cerebellar areas , left thalamus , bilateral temporal lobes medially and inferiorly and left posterior communicating artery
+a small intimal tear   -> sequelae
+fluid restriction   -> low sodium
+antibiotics   -> the thrush
+ultrasound guidance   -> a left pleural effusion
+ultrasound guidance   -> empyema
+gentamicin   -> low potassium
+sputum   -> klebsiella pneumoniae
+her electrocardiogram   -> congestive heart failure
+an angiogram   -> thrombosis at the mid basilar artery
+oral antibiotics   -> left lower lobe pneumonia
+a right upper quadrant ultrasound   -> common bile duct dilatation
+a right upper quadrant ultrasound   -> active cholecystitis
+a right upper quadrant ultrasound   -> gallstones
+discharge hematocrit   -> anemia
+discharge hematocrit   -> iron deficient
+tylenol   -> pain
+ancef   -> klebsiella pneumoniae
+ancef   -> bug
+her hematocrit   -> a steady decline
+computerized tomography scans   -> infarction in bilateral basis pontis , mid brain , the superior cerebellar areas , left thalamus , bilateral temporal lobes medially and inferiorly and left posterior communicating artery
+this hospitalization   -> a steady decline
+coronary artery disease   -> angina
+an increase   -> t wave inversions in the lateral leads
+her systolic blood pressure   -> an acute drop
+her anemia   -> anemia
+her anemia   -> chronic disease
+her anemia   -> hypoproliferation
+this hospitalization   -> low sodiums
+a chest x-ray   -> a progressing left lower lobe infiltrate
+basilar artery stenosis   -> basilar thrombosis
+basilar artery stenosis   -> &quot; top of the basilar &quot; syndrome
+ck &apos;s   -> mildly elevated
+this antibiotic regimen   -> fevers
+an magnetic resonance imaging study   -> aneurysm
+an magnetic resonance imaging study   -> basilar artery disease
+the angiogram   -> a small intimal tear
+nystatin swish and spit   -> bad thrush
+a chest x-ray   -> some left lower lobe atelectasis
+these two drugs   -> bug
+these two drugs   -> klebsiella pneumoniae
+electrocardiogram   -> st depression in v4 to v6
+the ldh   -> an increase
+management   -> your kidney stones
+shock therapy   -> anxiety neurosis
+haldol   -> agitation
+doxepin   -> itching
+mri   -> a left femoral condyle osteonecrotic defect
+mri   -> degenerative meniscus
+benzodiazepines   -> agitation
+a severely comminuted fracture of the proximal left humerus   -> proximal distraction
+thickening of the aortic wall   -> atherosclerotic changes
+abdomen distended   -> mild tenderness on the left
+diabetic retinopathy   -> blindness in the right eye
+surgery   -> diabetic retinopathy
+diabetic retinopathy   -> glaucoma
+diabetic retinopathy   -> blind in right eye
+the patient &apos;s admitting chest x-ray   -> an elevated left hemidiaphragm
+the patient &apos;s admitting chest x-ray   -> atelectasis
+the patient &apos;s admitting chest x-ray   -> splinting on that side
+an elevated left hemidiaphragm   -> atelectasis
+an elevated left hemidiaphragm   -> splinting on that side
+this ct scan   -> the severely comminuted fracture of the proximal left humerus
+the cpks   -> mb fractionations
+the patient urinalysis   -> moderate occult blood
+the patient urinalysis   -> few bacteria
+the patient urinalysis   -> moderate bladder epithelial cells
+a small / moderate-sized , mild-intensity , reversible posterior lateral defect   -> mild / moderate ischemia
+the blood in the esophagus   -> mallory-weiss tear
+a ct scan   -> a lucency and irregularity of the glenoid
+a ct scan   -> a fracture
+a lucency and irregularity of the glenoid   -> a fracture
+chest tightness ( pressure )   -> stress
+righteye surgery   -> glaucoma
+a sling   -> his left humeral fracture
+electrocardiogram   -> bigeminy
+ekg   -> ischemia
+a chronic cough   -> clear sputum
+a second endoscopy   -> a gastric ulcer
+a second endoscopy   -> melena
+left atrial enlargement   -> thickening of the aortic wall
+left atrial enlargement   -> atherosclerotic changes
+laser surgery   -> retinopathy
+nystatin   -> affected area
+a moderate-sized , dense , fixed inferior defect   -> scar
+percocet   -> pain
+an echocardiogram   -> left atrial enlargement
+cardiac monitor   -> the bigeminy
+cardiac monitor   -> myocardial infarction
+cardiac perfusion scans   -> a moderate-sized , dense , fixed inferior defect
+pathology   -> a gastric ulcer
+sodiums   -> slightly hyponatremic
+a shoulder film   -> a severely comminuted fracture of the proximal left humerus
+conscious sedation   -> bigeminy
+emg &apos;s   -> occasional spells
+emg &apos;s   -> some orthostatic dizziness
+emg &apos;s   -> jitteriness
+his wound   -> signs of infection
+patient controlled analgesia   -> left shoulder pain
+further work-up   -> his neurologic conditions
+examination of his shoulder   -> positive joint tenderness
+some underlying diabetic process   -> an autonomic type neuropathy
+diabetes   -> the wide excursions
+arthrogram   -> a right rotator cuff tear
+his sugars   -> the wide excursions
+his sugars   -> diabetes
+acute shortness of breath   -> pulmonary edema
+lasix   -> his high right-sided filling pressure
+pressors   -> multiple complications
+chest x-ray   -> pulmonary edema
+coumadin   -> his low ejection fraction
+auscultation   -> wheezes
+auscultation   -> rales
+a cardiac catheterization   -> a three vessel coronary artery disease
+a cardiac catheterization   -> an occluded rca
+a cardiac catheterization   -> a high grade left circumflex lesion after the om
+a cardiac catheterization   -> distal left circumflex occlusion
+a cardiac catheterization   -> 70%-80% proximal lad
+his captopril   -> his high right-sided filling pressure
+his ecg   -> ischemic changes
+greater afterload reduction   -> his high right-sided filling pressure
+cardiac catheterization   -> his coronary artery disease
+previous ecg   -> flat t waves in i and avl
+diuresis   -> his high right-sided filling pressure
+his most recent echocardiogram   -> a thin fibrotic septum
+his most recent echocardiogram   -> akinesis
+his most recent echocardiogram   -> moderately severe hypokinesis in all other regions
+chest x-ray   -> infiltrates
+chest x-ray   -> pulmonary edema
+an orchiopexy   -> undescended testicle
+further management   -> his pulmonary edema
+e. coli   -> recent urinary tract infection
+right total hip replacement   -> right hip osteoarthritis
+the electrocardiogram   -> intraventricular conduction delay
+the electrocardiogram   -> poor r wave progression
+a duplex ultrasound examination   -> deep venous thrombosis
+the chest x-ray   -> borderline cardiomegaly
+the chest x-ray   -> acute cardiac or pulmonary disease
+oral and intravenous potassium   -> postoperatively hypokalemia
+hydrochlorothiazide   -> the patient &apos;s hypertension
+potassium   -> the patient &apos;s low potassium level
+urinalysis   -> trace white blood cells
+urinalysis   -> slight occult red blood cells
+advil   -> the patient &apos;s pain
+radiographs   -> right hip osteoarthritis
+darvocet   -> the patient &apos;s pain
+percocet   -> pain
+pelvic ultrasound   -> thickened endometrium
+percocet   -> pain
+ibuprofen   -> pain
+colace ( docusate sodium )   -> constipation
+milk of magnesia ( magnesium hydroxide )   -> constipation
+tylenol ( acetaminophen )   -> pain
+endoscopic retrograde cholangiopancreatography   -> dilated ducts
+interventional radiology   -> dilated ducts
+the intact drain   -> bilious material
+porcine valve   -> aortic stenosis
+partial colectomy   -> rectal carcinoma
+the electrocardiogram   -> a short pr interval
+the electrocardiogram   -> delta wave
+the electrocardiogram   -> clockwise rotation present
+chronic steroids   -> mild cataracts
+optic neuritis   -> a subtle temporal disc pallor od
+tetracycline   -> gastrointestinal intolerance
+erythromycin   -> gastrointestinal intolerance
+morphine   -> itching
+morphine   -> gastrointestinal symptoms
+declomycin   -> edema
+declomycin   -> rash
+the sphenoid   -> the patient &apos;s discomfort
+dilantin   -> rash
+dilantin   -> edema
+progressive shortness of breath   -> chronic obstructive pulmonary disease
+progressive shortness of breath   -> severe lobular emphysema
+steroid complications   -> cataract
+steroid complications   -> diffuse fibrocystic breast disease
+steroid complications   -> osteoporosis
+steroid complications   -> trigeminal neuralgia
+talwin   -> disorientation
+talwin   -> gastrointestinal symptoms
+chest pain   -> sob
+r lung mass   -> cancer
+vicodin   -> pain
+a chole   -> recurrent biliary colic
+percocet   -> pain
+an ultrasound   -> six gallstones
+an ultrasound   -> cholecystitis
+an earlier obstetric ultrasound   -> ultrasound proven gallstones
+dermoplast topical   -> pain
+tucks ( witch hazel )   -> pain
+ibuprofen   -> pain
+docusate sodium   -> constipation
+an endometrial biopsy   -> grade i adenocarcinoma
+gross examination   -> superficial invasion
+other symptoms   -> diffuse and mainly frontal headaches
+other symptoms   -> mild neck soreness
+magnetic resonance angiogram study   -> infarction
+magnetic resonance angiogram study   -> other pathologic processes
+magnetic resonance angiogram study   -> arterial dissections
+a magnetic resonance imaging   -> arterial dissections
+a magnetic resonance imaging   -> other pathologic processes
+a magnetic resonance imaging   -> infarction
+pharmacologic treatment   -> depression
+singing or humming along   -> slightly inappropriate
+head ct scan without contrast   -> intracranial process
+quinine   -> a rash
+the examination   -> the deficits
+examination   -> notable findings
+examination   -> her gait disorder
+examination   -> anisocoria
+her heel-to-shin and finger-to-nose testing   -> ataxia
+her heel-to-shin and finger-to-nose testing   -> tremor
+toe tap   -> slow bilaterally
+ct scan   -> ovarian cyst
+percocet   -> pain
+xray   -> fracture
+motrin   -> pain
+ice   -> sore areas
+the gait examination   -> changing gait
+heent examination   -> bilateral esotropia
+an mri   -> enlarged lateral ventricles
+an mri   -> normal pressure hydrocephalus
+altzheimer &apos;s disease   -> down &apos;s syndrome
+her feet externally rotated   -> a wide based gait
+her feet externally rotated   -> shuffling short steps
+her feet externally rotated   -> a tendency to fall back
+mri   -> large ventricles
+csf gram stain   -> organisms
+csf gram stain   -> polys
+left ankle surgery   -> swelling
+diagnostic lumbar puncture   -> normal pressure hydrocephalus
+down &apos;s syndrome   -> alzheimer &apos;s disease
+docusate sodium   -> constipation
+maalox-tablets quick dissolve / chewable   -> upset stomach
+repair   -> first degree perineal laceration
+ibuprofen   -> pain
+ativan   -> seizures
+unresponsive   -> heart sounds
+unresponsive   -> carotid pulse
+unresponsive   -> respiratory excursions
+unresponsive   -> pupillary reactions
+an electroencephalogram   -> generalized slowing without ictal events
+a right breast mass   -> a discharge
+some erythema   -> the wound
+a neurological examination   -> abnormality
+levofloxacin   -> nafcillin sensitive staphylococcus aureus cellulitis of the right leg
+vascular examination   -> 1+ carotid impulses
+vascular examination   -> transmitted cardiac murmurs
+urinalysis   -> trace microscopic hematuria
+urinalysis   -> 1+ bacteria
+a course of nafcillin   -> nafcillin sensitive staphylococcus aureus cellulitis of the right leg
+a cervical spine series   -> degenerative joint disease
+a cervical spine series   -> obvious fracture
+treatment   -> a right lower extremity cellulitis
+medications   -> quite sedated
+head ct scan   -> bleed
+the patient &apos;s extremity examination   -> a small ulcer
+the patient &apos;s extremity examination   -> erythema of the right calf
+erythema of the right calf   -> a small ulcer
+a leg ulcer   -> cellulitis
+her agitation   -> infection
+her agitation   -> her metabolic condition
+neurological examination   -> quite sedated
+echocardiogram   -> mitral regurgitation
+prolonged antibiotics   -> infection
+the heart examination   -> a sustained pmi
+a ct scan of the head   -> acute bleed
+cholestatic picture   -> mildly elevated alkaline phosphatase
+cholestatic picture   -> elevated bilirubins
+argumentative   -> uncooperative with procedures
+argumentative   -> confused
+skin examination   -> cellulitis
+skin examination   -> a leg ulcer
+near complete obliteration of the second heart sound   -> a two out of six high pitched murmur
+abdominal examination   -> organomegaly
+abdominal examination   -> non-tender
+abdominal examination   -> non-distended
+abdominal examination   -> masses
+her multiple medications   -> her agitation
+chronic steroids   -> temporal arteritis
+a lumbar puncture   -> xanthrochromasia
+the patient &apos;s admission chest x-ray   -> infiltrate
+the patient &apos;s admission chest x-ray   -> congestive heart failure
+antibiotics   -> infection
+a head scan   -> bleed
+some shortness of breath   -> allergies
+simethicone   -> gas pain
+sarna topical   -> itching
+heent examination   -> atraumatic
+cardiac exam   -> a diffuse 2/6 systolic murmur
+an abdominal mri   -> elevated liver enzymes
+penicillin   -> her reaction
+miracle creamtopical   -> skin irritation
+a blood culture   -> staphylococcusaureus
+lactulose   -> constipation
+albuterol inhaler   -> breathing difficulties
+nafcillin   -> drug rash
+a smear   -> all
+laxatives   -> constipated
+the skin examination   -> a dark two centimeter ecchymosis
+the skin examination   -> pale blue two centimeter macules
+robituss in ac   -> cough
+the patient &apos;s physical examination   -> apparent distress
+light-headedness   -> nausea
+light-headedness   -> diaphoresis
+light-headedness   -> shortness of breath
+exertional angina   -> chest pain
+exertional angina   -> light-headedness
+ekg   -> left ventricular hyper-trophy
+ekg   -> poor anterior progression of r-waves
+aortic valve replace-ment   -> aortic stenosis
+aortic stenosis   -> chest pain
+carotid angiography   -> left internal carotid stenosis of 90%
+carotid angiography   -> right internal carotid artery &quot; critical stenosis &quot;
+angiography   -> significant stenosis of the left carotid artery
+a left carotid endarterectomy   -> significant stenosis of the left carotid artery
+the residual deficit   -> some left upper extremity weakness
+total abdominal hysterectomy   -> uterine fibroids
+heent examination   -> bilateral arcussenilis
+cardiac examination   -> systolic murmur at the right upper sternal border
+echocardiogram   -> left ventricular hypertrophy
+echocardiogram   -> right heart wall motion abnormali-ties
+confusion   -> agitation
+cardiac catheterization   -> 70% stenosis of her left circumflex artery
+cardiac catheterization   -> 50% stenosis of the left anterior descending
+cardiac catheterization   -> 10% stenosis of the right coronary artery
+haldol   -> agitation
+haldol   -> confusion
+the electrocardiogram   -> atrial fibrillation
+the electrocardiogram   -> digitalis effect
+the electrocardiogram   -> left ventricular hypertrophy
+the electrocardiogram   -> slow ventricular response
+increased calcium   -> hyperparathyroidism
+some tingling in her hands   -> some tingling hear her perioral region
+surgical evaluation   -> her hyperparathyroidism
+dilation and curettage   -> polyps
+physical examination   -> acute distress
+some dysphagia   -> some difficulties with swallowing
+the review of systems   -> dyspnea on exertion
+bilateral total knee replacements   -> osteoarthritis
+calcium gluconate   -> her ionized calcium decreased
+preoperative evaluation   -> a high calcium
+hyperparathyroidism   -> an elevated pth
+the head , eyes , ears , nose and throat examination   -> irregular border
+the head , eyes , ears , nose and throat examination   -> very sluggishly reactive
+further testing   -> an elevated pth
+further testing   -> hyperparathyroidism
+the surgery   -> a high calcium
+markedly enlarged   -> an adenoma
+parathyroidectomy   -> hyperparathyroidism
+positive tremor reflex on the left   -> absent on the right
+ace inhibitors   -> allergic
+codeine   -> allergic
+urinalysis   -> citrobacter
+biopsy   -> abnormal vasculature
+biopsy   -> hemosiderin deposit
+biopsy   -> a dural arteriovenous malformation
+valium   -> muscle spasm
+adequate analgesia   -> spasticity
+increasing left sided weakness   -> spasticity
+increasing left sided weakness   -> difficulty swallowing
+increasing left sided weakness   -> pain
+increasing left sided weakness   -> abdominal pain
+valium   -> muscle spasm
+valium   -> spasticity
+physical therapy   -> functional capacity
+pharmacological regimen   -> spasticity
+baclofen   -> spasticity
+demerol   -> left arm and leg pain
+recurrence   -> her former vascular malformation
+pinprick sensation   -> a high cervical spinal sensory level
+percocet   -> allergic
+left sided weakness   -> spasticity
+light touch   -> a high cervical spinal sensory level
+rectal examination   -> nontender
+contrast   -> enhancing lesions of the spinal cord
+occupational therapy   -> functional capacity
+a flexor contracture   -> markedly increased tone
+angiography   -> normal vascular distribution of the head and neck
+angiography   -> recurrence of arteriovenous malformation
+hydralazine   -> allergic
+electrocardiogram   -> p-waves
+baclofen   -> spasticity
+a ct scan of the head   -> a missing posterior arch at c-1
+nifedipine   -> allergic
+ct   -> extrinsic compressive lesions
+vaginal delivery   -> second degree laceration
+the bactrim   -> a cholestatic picture
+ventilatory support   -> adult respiratory distress syndrome
+ventilatory support   -> pneumonia
+ventilatory support   -> pneumocystis carinii pneumonia
+pneumocystis carinii pneumonia   -> pneumonia
+pneumocystis carinii pneumonia   -> adult respiratory distress syndrome
+gentamicin   -> community acquired pneumonias
+gentamicin   -> gram negative rods
+liver function tests   -> a cholestatic picture
+the patient &apos;s abdominal ct scan   -> liver disease
+the patient &apos;s abdominal ct scan   -> obstruction
+hematocrit   -> decreasing counts
+bactrim   -> several opportunistic infections of the liver
+bactrim   -> his liver abnormalities
+bactrim   -> these abnormalities
+acyclovir   -> positive herpes simplex virus
+acyclovir   -> the patient &apos;s penile ulcer
+the patient &apos;s penile ulcer   -> positive herpes simplex virus
+platelets   -> decreasing counts
+stool   -> ova
+stool   -> parasites
+titers   -> cmv
+titers   -> epstein-barr virus
+erythromycin   -> community acquired pneumonias
+erythromycin   -> gram negative rods
+a titer   -> toxoplasma
+ventilatory support   -> continued worsening pulmonary status
+white count   -> decreasing counts
+pcp   -> a bactrim failure
+his liver function test abnormalities   -> a cholestatic picture
+work-up   -> his cholestatic jaundice picture
+1/2 cm ulcer   -> yellowish discharge
+a bronchoalveolar lavage   -> a toluidine blue
+a bronchoalveolar lavage   -> many pneumocysts
+his chest x-ray   -> bilateral nodular infiltrates
+work-up   -> his pulmonary process
+treatment   -> his cholestatic jaundice picture
+treatment   -> his pulmonary process
+abdominal ct   -> primary colorectal adenocarcinoma
+abdominal ct   -> multiple liver metastases
+primary colorectal adenocarcinoma   -> multiple liver metastases
+a 23 pound weight loss   -> an increased appetite
+personality changes   -> increased irritability
+allergic   -> hives
+a pelvic ultrasound   -> extensive fluid
+a pelvic ultrasound   -> clear mass
+im injection   -> ulceration
+removal   -> a renal calculus
+zofran   -> some emesis
+zofran   -> nausea
+zofran   -> no relief
+nausea   -> some emesis
+lysis   -> adhesions
+removal   -> mass
+lysis   -> adhesions
+compazine   -> nausea
+the frozen section   -> serous carcinoma of the ovary
+the frozen section   -> poorly differentiated adenocarcinoma
+removal   -> mass
+achest x-ray   -> left pleural effusion
+achest x-ray   -> pulmonary edema
+achest x-ray   -> small right pleural effusion
+achest x-ray   -> left lower lobe consolidations
+dilaudid   -> pain
+ativan   -> anxiety
+a repeat chest x-ray   -> dyspnea
+a repeat chest x-ray   -> persistent pleural effusion
+a repeat chest x-ray   -> atelectasis
+a repeat chest x-ray   -> pneumonia
+zofran   -> nausea
+a nasogastric tube   -> nausea
+a nasogastric tube   -> bilious fluid
+the patient &apos;s urine culture   -> moderate e. coli
+mri   -> a large fluid filled abdomen
+mri   -> a relatively small mass
+albuterol inhalers   -> wheezing
+albuterol inhalers   -> asthma symptoms
+bradycardia   -> subsequent fall in blood pressure
+a chest xray   -> a left apicalpneumothorax
+maalox plus , extra strength   -> indigestion
+albumin   -> his fluid
+broad spectrum antibiotics   -> sbp
+a chest tube   -> a loculated pleural effusion
+hydrocortisone   -> itching
+neurologic examination   -> slurred and slow speech
+neurologic examination   -> distractable
+distractable   -> slurred and slow speech
+chest xray   -> pleurodesis
+albuterol and atrovent nebs   -> wheeze
+oxycontin   -> his pain
+echocardiogram   -> mild mitral regurgitation
+levofloxacin   -> sbp
+ocean spray   -> nasal dryness
+msir   -> pain
+chest ct   -> a pulmonary nodule
+morphine immediate release   -> pain
+those white cells   -> his cancer
+abdominal ct   -> a 3.0 to 4.0 centimeter lesion in the pancreatic head
+one gram stain   -> rare gram negative rods
+coronary artery disease   -> congestive heart failure
+his urinalysis   -> a prerenal state
+lidocaine   -> pain around foley site
+workup   -> pancreatic cancer
+his avandia   -> the side effect profile
+broad spectrum antibiotics   -> clinical sbp
+lasix   -> his fluid
+workup   -> his pancreatic cancer
+ffp   -> his coagulopathy
+prophylaxis   -> sbp
+an ercp   -> a long segment of distal narrowing of the common bileduct
+ativan   -> very somnolent
+lovenox   -> bilateral deep venous thromboses
+lactulose   -> bowel movements
+kbl mouthwash   -> mouth discomfort
+prophylaxis   -> sbp
+tap   -> hypotensive
+morphine   -> breakthrough pain
+atarax   -> itching
+ativan   -> anxiety
+diuresis   -> his hypoalbunemic state
+diuresis   -> increased volume overload
+chest xray   -> volume overload
+some mild fluid resuscitation   -> pulmonary edema
+the morphine   -> breakthrough pain
+lasix   -> third space fluids
+levofloxacin iv   -> sbp
+albumin   -> third space fluids
+biliary drain   -> decreased output
+serax   -> nsomnia
+sbp   -> signs
+sbp   -> symptoms
+an outpt egd   -> intermittent post-prandial nausea / satiety
+outpatient mra   -> post prandial pain
+the antibiotics   -> h. pylori
+gi   -> intermittent post-prandial nausea / satiety
+hida scan   -> obstruction
+egd   -> stricture
+egd   -> ulcer
+egd   -> gastritis
+hida with ck challenge   -> biliary dyskinesia
+empiric treatment   -> h. pylori positive
+removal   -> a 3.3 centimeter right lobe microfollicular adenoma
+a right lower dominant nodule   -> pressure discomfort in the neck
+symptoms   -> a right lower dominant nodule
+symptoms   -> pressure discomfort in the neck
+physical exam   -> exophthalmos
+palpation   -> a multinodular goiter
+palpation   -> associated cervical lymphadenopathy
+a multinodular goiter   -> associated cervical lymphadenopathy
+her heart rhythm   -> murmur
+vaginal delivery   -> second degree laceration
+srom   -> labor
+labor   -> srom
+charcoal   -> tca and celexa overdose
+ct myelogram   -> a lateral l-1 s-1 disc bulge
+ct myelogram   -> small l-4-4 bulge
+oral analgesics   -> pain
+previous electrocardiogram   -> significant changes
+hemicolectomy   -> colon cancer
+the chest x-ray   -> the opacities
+the chest x-ray   -> pulmonary edema
+the chest x-ray   -> some abnormality in the right lower lobe
+his suprapubic catheter   -> discomfort
+his suprapubic catheter   -> some blood at the site
+discomfort   -> some blood at the site
+prilosec   -> the patient &apos;s abdominal pain
+electrocardiogram   -> sinus tachycardia
+respiratory insuffiencey   -> severe chronic obstructive pulmonary disease
+respiratory insuffiencey   -> pneumonia
+severe chronic obstructive pulmonary disease   -> pneumonia
+a suprapubic tube   -> atonic bladder
+suprapubic catheter   -> atonic bladder
+cimetidine   -> mild epigastric discomfort
+scarring in both lungs   -> his usual severe bilateral emphysema_____
+a suprapubic catheter area   -> discomfort
+coronary artery disease   -> angina
+neck exam   -> jugular venous distention
+neck exam   -> masses
+antibiotics   -> pneumonia
+a chest x-ray   -> new changes
+a chest x-ray   -> his usual severe bilateral emphysema_____
+a chest x-ray   -> scarring in both lungs
+prilosec   -> gastroesophageal reflux disease
+prilosec   -> gastritis
+heart exam   -> s3
+heart exam   -> murmur
+a colectomy   -> colon cancer
+his chest x-ray   -> his usual severe bilateral emphysema_____
+his chest x-ray   -> new changes
+his chest x-ray   -> scarring in both lungs
+lung exam   -> decreased breath sounds
+lung exam   -> crackles in the bases
+a chest x-ray   -> the opacities
+a chest x-ray   -> pulmonary edema
+a chest x-ray   -> some abnormality in the right lower lobe
+intravenous ticarcillin   -> gram negative pneumonia
+prophylaxis   -> peptic ulcer disease
+the patient &apos;s diuresis   -> his respiratory status
+the ticarcillin   -> a serious pneumonia
+stress mibi   -> ischemia
+heparin   -> a demand ischemic episode
+nstemi   -> copd exacerbation
+troponin leak   -> copd exacerpation
+uri   -> exacerbation
+demand ischemia   -> nstemi
+benzos   -> steroid psychosis
+nstemi   -> copd exacerbation
+demand   -> a nstemi
+heparin   -> ptt
+worsening dyspnea   -> fatigue
+pneumonia   -> exacerbation
+octreotide   -> the bleeding
+his blood pressure   -> slightly decreased
+endoscopy   -> multiple angio ectasias throughout the stomach
+a change in mental status   -> no longer responsive
+his known metastatic pancreatic cancer   -> gi bleeding
+his known metastatic pancreatic cancer   -> death
+the assessment   -> a gi bleed
+an angiogram with gel foam   -> his gi bleed
+being pale   -> evidence of anemia
+motrin   -> pain
+xray   -> effusion
+xray   -> fracture
+ice   -> sore areas
+obstruction   -> partial obstructive events
+obstruction   -> obstruction to airflow
+obstruction   -> some obstructive apnea
+obstruction to airflow   -> some obstructive apnea
+obstruction to airflow   -> partial obstructive events
+his chest discomfort   -> anxious
+cath   -> af
+cath   -> mild cad in the left coronary artery symptom
+a cath   -> a 40% rca
+a 40% rca   -> hazy
+occasional chest pain   -> emotional stress
+lower extremity study   -> a dvt in both legs
+any swelling   -> the swelling
+a ct scan   -> a pe
+the myocardial perfusion images   -> ischemia
+ativan   -> anxiety
+medication for antianxiety   -> his anxiety level
+75 respiratory events   -> apnea
+intermittent substernal chest pain   -> radiation to the left shoulder
+his ekg   -> hyperacute t-wave anteriorly
+nexium   -> acid reflux
+counseling   -> his anxiety level
+further testing   -> his anxiety level
+a repeat ct scan   -> pulmonary nodule
+lower extremity pulses   -> edema
+a sleep study   -> 75 respiratory events
+a sleep study   -> apnea
+ekg   -> ischemia
+physical exam   -> any swelling
+physical exam   -> the swelling
+a ppi   -> acid reflux
+a ct scan with contrast   -> nodes in his neck
+medications   -> anxiety
+nitroglycerin   -> chest pain
+intermittent right neck swelling   -> nodes in his neck
+intraluminal thrombus   -> a greater than 10% loss in the initial gain
+pressor support   -> congestive heart failure
+her physical examination   -> acute distress
+left atrial enlargement   -> left axis deviation
+left atrial enlargement   -> poor r-wave progression
+left axis deviation   -> poor r-wave progression
+intraluminal thrombus   -> a filling defect
+intraluminal thrombus   -> a severe 80% proximal stenosis
+complete heart block   -> hypotension
+her electrocardiogram   -> left atrial enlargement
+her electrocardiogram   -> left axis deviation
+her electrocardiogram   -> poor r-wave progression
+the examination of the extremities   -> edema
+a permanent pacemaker implantation   -> hypotension
+a permanent pacemaker implantation   -> complete heart block
+a dilated left ventricle   -> an area of anterolateral , apical , and septal akinesis
+coronary angioplasty   -> a greater than 10% loss in the initial gain
+temporary pacing wire   -> hypotension
+temporary pacing wire   -> complete heart block
+a dominant right coronary artery   -> minor disease
+prominent q-waves in avl   -> lateral myocardial infarction
+her electrocardiogram   -> a new right bundle branch block
+her electrocardiogram   -> left anterior hemiblock
+cine left ventriculogram   -> an area of anterolateral , apical , and septal akinesis
+cine left ventriculogram   -> a dilated left ventricle
+the cardiac examination   -> anapical impulse in the fifth left intercostal space
+her risk factors   -> coronary artery disease
+her risk factors   -> a positive family history
+her risk factors   -> an elevated cholesterol level
+5 mg iv lopressor   -> rapid af
+digoxin   -> his paroxysmal atrial fibrillation
+auscultation   -> a few fine crackles at the left base
+cultures   -> pseudomonas aeruginosa
+examination   -> mildly inattentive
+cardiac index   -> a pseudomonas sepsis picture
+an mri of the spine   -> diffuse spinal column involvement
+an mri of the spine   -> lesions in t4 and t8
+an mri of the spine   -> cord compression
+diffuse spinal column involvement   -> lesions in t4 and t8
+diffuse spinal column involvement   -> cord compression
+these dressing changes   -> extreme pain
+cardiac exam   -> murmur
+an mri   -> an epidural mass
+morphine sulfate iv   -> breakthrough pain
+intravenous lasix   -> respiratory compromise
+intravenous lasix   -> increasing pulmonary edema
+florinef   -> adrenal insufficiency
+these findings   -> the cord compression
+the patient &apos;s clinical situation   -> a pseudomonas cellulitis
+the patient &apos;s clinical situation   -> subsequent sepsis
+a pseudomonas cellulitis   -> subsequent sepsis
+blood cultures   -> pseudomonas
+blood cultures   -> pseudomonas aeruginosa
+his neurological exam   -> increasing lower extremity edema
+parenteral morphine sulfate   -> pain control during dressing changes
+wedge pressure   -> a pseudomonas sepsis picture
+motor exam   -> positive asterixis
+an echocardiogram   -> decreased global ef
+steroids   -> a cord compression
+hypoalbuminemia   -> a poor nutritional status
+an mri without gadolinium   -> a right posterior lateral epidural mass
+a swan   -> a pseudomonas sepsis picture
+imipenem   -> his pseudomonas cellulitis
+lab studies   -> the organism &apos;s susceptibility
+dopamine   -> his sepsis
+neurological exam on admission   -> drowsy
+the radiation therapy   -> plasmacytoma
+ua   -> positive granular casts
+a dopamine drip   -> his sepsis
+mso4   -> pain
+platelets   -> his bleeding risk
+penicillin   -> a rash
+cvp   -> a pseudomonas sepsis picture
+tobramycin   -> his pseudomonas cellulitis
+xrt to the spinal region   -> the plasmacytoma
+sulfa drugs   -> a rash
+svr   -> a pseudomonas sepsis picture
+chest x-ray   -> infiltrates
+ett   -> ischemia
+desaturations in the 70 &apos;s   -> sinus bradycardia
+desaturations in the 70 &apos;s   -> pauses
+echo   -> mild dilatation
+echo   -> significant valvular disease
+tylenol ( acetaminophen )   -> pain
+milk of magnesia ( magnesium hydroxide )   -> constipation
+ibuprofen   -> pain
+percocet   -> pain
+chest ct   -> bibasilar diffuse infiltrates
+chest exam   -> coarse rhonchi
+chest exam   -> some bibasilar crackles
+review of pathology   -> chronic inhalational injury
+review of pathology   -> organizing pneumonia
+review of pathology   -> boop
+an induced sputum   -> afb
+an induced sputum   -> tuberculosis
+abdominal exam   -> hepatosplenomegaly
+heent exam   -> sclerae
+heart exam   -> a flat jugular venous pressure
+heart exam   -> tachycardic
+echocardiogram   -> trace tr
+echocardiogram   -> chf
+echocardiogram   -> pulmonary hypertension
+echocardiogram   -> lvh
+general exam   -> acute distress
+supportive medical therapy   -> his cough
+the pathology   -> adenocarcinoma
+an elective termination   -> her pregnancy
+ahead ct scan   -> a metastatic lesion
+ahead ct scan   -> intracranial abnormalities
+a fine needle aspirate   -> this mass
+a fine needle aspirate   -> giant cell tumor
+giant cell tumor   -> this mass
+the patient &apos;s low serum albumin   -> her extensive edema
+the abdominal and pelvic ct scans   -> pancreatic mass
+the abdominal and pelvic ct scans   -> suspicious gi masses
+the abdominal and pelvic ct scans   -> a 2 cm ovarian cyst
+the pathology   -> an aggressive adenocarcinoma
+the pathology   -> a high grade adenocarcinoma
+the mri scan on admission   -> an impending cord compression
+ct scan   -> obstruction of the intrahepatic ivc
+cardiac exam   -> tachycardic
+bilateral pleural effusions   -> increased work of respiration
+bilateral pleural effusions   -> shortness of breath
+percocet   -> pain
+a limited chest ct   -> internal mammary lymphadenopathy
+a limited chest ct   -> diffuse bilateral pulmonary metastases
+a limited chest ct   -> metastases to the sternum , rib , multiple spinal levels
+distention of the azygous system   -> ivc obstruction
+ivc obstruction   -> liver metastases
+fine needle aspiration   -> adenocarcinoma
+a mammogram   -> dominant masses
+a mammogram   -> the primary tumor
+a mammogram   -> suspicious microcalcifications
+termination   -> her cancer
+termination   -> the pregnancy
+work-up   -> the primary tumor
+the management   -> her malignancy
+management   -> her cancer
+the patient &apos;s extensive pulmonary metastases   -> increased work of respiration
+the patient &apos;s extensive pulmonary metastases   -> shortness of breath
+skin exam   -> a right posterior parietal scalp nodle
+the work-up   -> the patient &apos;s disease
+an abdominal ct scan   -> diffuse metastatic lesions of the liverspine , ribs and most of the lymph nodes
+marked bilateral lower extremity and presacral edema   -> ascites
+a bone scan   -> increased uptake in the left and right lateral skull
+a bone scan   -> increased uptake in the left chest wall , left anterior ribs four to six
+an abdominal and pelvic ct scan with iv contrast   -> extensive liver metastases
+an abdominal and pelvic ct scan with iv contrast   -> ascites
+an abdominal and pelvic ct scan with iv contrast   -> multiple bony metastases
+an abdominal and pelvic ct scan with iv contrast   -> an isolated splenic metastases
+an abdominal and pelvic ct scan with iv contrast   -> bilateral pulmonary nodules
+an abdominal and pelvic ct scan with iv contrast   -> narrowing of the intra hepatic ivc
+an abdominal and pelvic ct scan with iv contrast   -> distention of the azygous system
+an abdominal and pelvic ct scan with iv contrast   -> ivc obstruction
+an abdominal and pelvic ct scan with iv contrast   -> bilateral pleural effusions
+mri scan of the cervical and thoracic spine   -> a t3 lesion
+mri scan of the cervical and thoracic spine   -> foraminal obstruction
+mri scan of the cervical and thoracic spine   -> multiple metastatic lesions in the vertebral bodies
+mri scan of the cervical and thoracic spine   -> the patient &apos;s disease
+overwhelming   -> symptoms
+prostate ca in the pelvic area   -> obstructive uropathy
+further evaluation   -> his renal failure
+further evaluation   -> obstructive uropathy
+further evaluation   -> bilateral hydronephrosis
+further evaluation   -> prostate ca in the pelvic area
+nephrostomy tube placement   -> persistent hematuria
+nephrostomy tube placement   -> prostate ca
+prostate ca   -> persistent hematuria
+sodium bicarbonate   -> his metabolic acidosis
+transurethral resection of the prostate   -> persistent urinary retention
+crisis treatment   -> this well advanced prostate ca
+a left nephrostomy tube   -> the increasing creatinine
+ct scan of the renal area   -> an asymmetrically thickened urinary bladder wall
+ct scan of the renal area   -> right hydronephrosis
+a mass like thickening of the urinary bladder   -> tumor
+detrusor hypertrophy   -> a mass like thickening of the urinary bladder
+chest examination   -> some basilar crackles at the right lung base
+two units of packed red blood cells   -> the patient &apos;s hematocrit dropped
+a right nephrostomy   -> renal function
+kayexalate   -> hyperkalemia
+the ct scan   -> a cavitary lung lesion in the right lower lobe
+constipation   -> dysuria
+the procedure   -> the patient &apos;s hematocrit dropped
+chest x-ray   -> cardiomegaly
+angiographic studies   -> the persistent blood in the urine
+angiographic studies   -> vascular injuries
+ekg   -> atrial fibrillation
+ekg   -> left axis deviation
+ekg   -> lvh
+ekg   -> nonspecific st-t changes
+conservative management   -> this well advanced prostate ca
+haldol   -> agitation
+difficult ambulation   -> a small ulcer in the sacral area
+maalox plus extra strength   -> indigestion
+diflucan   -> yeast
+bypass grafting   -> coronary artery disease
+chemotherapy   -> status post lymphoma
+a change of antibiotics   -> the persistent fevers
+ampicillin   -> enterococci
+ampicillin   -> the wound
+ampicillin   -> staphylococcus
+further cultures from sputum and urine   -> yeast
+gentamicin   -> enterococci
+gentamicin   -> the wound
+gentamicin   -> staphylococcus
+eoc / loc   -> constipation
+the culture   -> enterococci
+the culture   -> staphylococcus
+the culture   -> the wound
+vancomycin   -> the persistent fevers
+a small complication   -> a left ankle wound
+clindamycin   -> enterococci
+clindamycin   -> the wound
+clindamycin   -> staphylococcus
+levofloxacin   -> the persistent fevers
+radiation   -> status post lymphoma
+magnesia   -> constipation
+vancomycin desensitization   -> the persistent fevers
+duoderm dressing   -> a small ulcer in the sacral area
+percocet   -> pain
+some swelling in her left lower extremity   -> a hematoma
+ampicillin   -> allergic
+surgery   -> her pain
+her angiography   -> a right proximal popliteal occlusion
+her angiography   -> anterior tibial dominant foot vessel
+aminophylline   -> allergic
+lasix   -> edema
+silvadene   -> the ulcer
+biaxin   -> allergic
+this operation   -> increased rest pain
+vancomycin   -> erythema on her left leg
+vancomycin   -> her erythema
+codeine   -> allergic
+clinoril   -> allergic
+a rectal examination   -> decubiti
+a rectal examination   -> masses
+a rectal examination   -> gluteal ulcers
+lower extremity non-invasive study   -> poor distal right extremity perfusion
+tylenol   -> allergic
+sulfa   -> allergic
+corgard   -> intolerance
+corgard   -> infrequent short runs of non-sustained ventricular tachycardia
+corgard   -> frequent premature ventricular contractions
+tenormin   -> intolerance
+tenormin   -> infrequent short runs of non-sustained ventricular tachycardia
+tenormin   -> frequent premature ventricular contractions
+a 12-lead electrocardiogram   -> atrial fibrillation
+norpace   -> intolerance
+norpace   -> infrequent short runs of non-sustained ventricular tachycardia
+norpace   -> frequent premature ventricular contractions
+decreased exercise tolerance   -> atrial fibrillation
+decreased exercise tolerance   -> a rapid ventricular rate
+quinidine   -> frequent premature ventricular contractions
+quinidine   -> infrequent short runs of non-sustained ventricular tachycardia
+quinidine   -> intolerance
+propranolol   -> intolerance
+propranolol   -> infrequent short runs of non-sustained ventricular tachycardia
+propranolol   -> frequent premature ventricular contractions
+flecainide   -> intolerance
+flecainide   -> infrequent short runs of non-sustained ventricular tachycardia
+flecainide   -> frequent premature ventricular contractions
+procainamide   -> intolerance
+procainamide   -> infrequent short runs of non-sustained ventricular tachycardia
+procainamide   -> frequent premature ventricular contractions
+an electrocardiogram   -> qt prolongation
+heart rate   -> atrial fibrillation
+rx   -> cramps
+potassium   -> cramps
+motrin   -> pain
+transverse colectomy   -> tumor
+tylenol   -> pain
+oral pain medications   -> pain
+an epidural   -> pain control
+transverse colectomy   -> tumor
+colonoscopy   -> diverticulitis
+colonoscopy   -> colon cancer
+pca   -> pain control
+exam   -> afebrile
+the procedure   -> complications
+dulcolax   -> constipation
+cath   -> 80% lm lesion
+pefusion imaging   -> perfusion defects
+drugs   -> known allergies
+metal plate   -> gsw
+creams   -> any incisions
+resting regional wall motion abnormalities   -> mild inferior hypokinesis
+powders   -> any incisions
+overall left ventricular systolic function   -> mildly depressed
+lotions   -> any incisions
+color doppler   -> atrial septal defect
+oxycodone-acetaminophen   -> pain
+2d   -> atrial septal defect
+pre-op eval.   -> abnormal ekg
+echo   -> mild lvh
+echo   -> inferior hk
+echo   -> mild mr
+echo   -> mild lae
+an ecg   -> new st depressions in v1-v4
+ekg   -> st depressions in v1-v4
+an echo   -> wall motion abnormalities
+morphine   -> her chest pain
+coumadin   -> her afib
+blindness   -> macular degeneration
+cardioversion   -> her afib
+leukocytosis-   -> mild elevated wbc
+lasix   -> weight gain
+lasix   -> shortness of breath
+ekg   -> sinus brady
+ekg   -> old lad and new st depressions in v1-v4
+docusate sodium   -> constipation
+acute mi   -> pulmonary edema
+pulmonary edema   -> bilateral crackles at bases and midlungs
+pulmonary edema   -> elevated jvp
+pulmonary edema   -> trace bilateral ankle edema
+pulmonary edema   -> diffuse opacities
+her cxr   -> mild pulm edema
+cxr   -> diffuse opacities
+exam   -> murmur
+exam   -> bibasilar crackles
+wbc 's   -> few bacteria
+lasix   -> mild pulm edema
+bactrim   -> afebrile
+lasix   -> shortness of breath
+lasix   -> wheezing
+maalox   -> indigestion
+lasix   -> weight gain
+lasix   -> shortness of breath
+slight worsening   -> the still mild pulmonary edema
+prematurity   -> bradycardia
+prematurity   -> apnea
+antibiotics   -> sepsis
+immunization   -> influenza
+nystatin powder   -> an erythematous perianal rash
+caffeine therapy   -> apnea
+caffeine therapy   -> bradycardic events
+influenza vaccination   -> chronic lung disease
+caffeine   -> bradycardic spells of prematurity
+caffeine   -> some apnea
+a single phototherapy   -> physiologic hyperbilirubinemia
+his admission complete blood count   -> bands
+the cardiovascular examination   -> murmurs
+stat cesarean section   -> fetal bradycardia
+two transurethral resection of the prostate   -> chronic prostatitis
+a recent catheterization   -> coronary artery disease
+an over the counter stool softener   -> constipation
+simethicone   -> indigestion/gas pain
+tilt table testing   -> orthostasis
+a beta blocker   -> supraventricular tachycardia
+stents to lad and 3rd om   -> coronary artery disease
+aluminum-magnesium hydroxide   -> indigestion
++distension   -> tympany
+narcotics   -> constipation
+your wound   -> warm
+your wound   -> swollen
+your wound   -> red
+your wound   -> pus
+symptoms   -> vomiting
+symptoms   -> fevers
+symptoms   -> shortness of breath
+symptoms   -> chills
+symptoms   -> new and continuing nausea
+symptoms   -> dribbling
+symptoms   -> stress incontinence
+symptoms   -> hematuria
+symptoms   -> dysuria
+a gentle laxative   -> constipation
+colace   -> constipation
+your dressings   -> your wounds
+milk of magnesia   -> constipation
+a clean dressing   -> your wounds
+a clean dressing   -> clear drainage
+your wounds   -> clear drainage
+resection   -> mouth tumor
+frozen section   -> invasive squamous cell carcinoma
+an open gastrostomy tube   -> complications
+morphine   -> pain
+lorazepam   -> anxiety
+his tracheostomy tube   -> minimal secretions
+flap checks   -> positive biphasic doppler signals
+pathology   -> invasive squamous cell carcinoma
+squamous cell carcinoma   -> stage t2 n0
+the surrounding edema   -> developing hydrocephalus
+suppression of the fourth ventricle   -> the surrounding edema
+suppression of the fourth ventricle   -> developing hydrocephalus
+cortisone drops   -> an ear ache
+flattening of the right nasolabial fold ( mild )   -> decreased excursion of the right mouth
+generalized weakness   -> at least two bleeding episodes
+a subacute pontine hemorrhage   -> familial cavernous hemangiomas
+gabapentin   -> paresthesias
+cardiovascular exam   -> murmurs
+cardiovascular exam   -> rubs
+cardiovascular exam   -> gallops
+her physical examination   -> the subtle left hand weakness
+her physical examination   -> right facial weakness
+areas of restricted diffusion   -> infarction
+sensory deafferentation   -> severely ataxic
+subacute blood products in the mid to low pons   -> recent hemorrhage into a cavernous angioma
+crossing pontine cerebellar fibers   -> severely ataxic
+rapid alternating movements   -> slow on the left
+rapid alternating movements   -> trouble isolating individual finger movements
+finger tapping   -> slow on the left
+finger tapping   -> trouble isolating individual finger movements
+head ct   -> a 1.5 cm diameter hyperdense mass in the pons
+the sound of static   -> progressively worse
+meniere 's disease   -> dizziness
+meniere 's disease   -> decreased hearing
+meniere 's disease   -> static in her ears
+mri of the brain   -> multiple foci susceptibility artifact within the brain
+the subacute pontine hemorrhage   -> significant change in size
+reflexes   -> clonus at the ankles bilaterally
+the procedure   -> hoarse
+the procedure   -> complications
+examination   -> afebrile
+xrt   -> squamous cell cancer
+xrt   -> positive level ii nodes
+scoping   -> significant supraglottic edema
+resection   -> the left face squamous cell cancer
+a cystoscopy transurethral resection of prostate placement   -> hematuria
+his pathology   -> squamous cell cancer
+his pathology   -> positive level ii nodes
+radiation   -> non hodgkin 's lymphoma
+resection   -> this left facial lesion
+split thickness and full thickness skin grafting   -> the defects
+repair   -> this left facial lesion
+evaluation   -> a left facial mass
+infusion   -> platelet drop
+mental status changes   -> loss of short term memory
+mental status changes   -> brief unresponsive period
+steroids   -> brief unresponsive period
+steroids   -> loss of short term memory
+the ct   -> cva
+the ct   -> pulmonary embolism
+iv benadry   -> brief unresponsive period
+iv benadry   -> loss of short term memory
+heparin gtt   -> platelet drop
+ue duplex   -> rue dvt
+er evaluation   -> brief unresponsive period
+er evaluation   -> mental status changes
+er evaluation   -> loss of short term memory
+er evaluation   -> dyspnea
+hit panel   -> positive
+hepain   -> platelet drop
+2 surgs.   -> spermatocele
+sputum culture   -> staph. aureus
+cxr   -> faint ill-defined opacities
+interval worsening in the left lung   -> multilobar pneumonia
+ischemic   -> left parietal subcortical hypodensity
+a bacterial pna   -> multifocal consolidation
+a pe   -> the acute onset of chest pain
+multifocal pneumonia   -> peripheral patchy opacities
+zofran   -> nausea
+a multifocal pneumonic process   -> faint ill-defined opacities
+three bowel resections   -> crohn 's disease
+three bowel resections   -> short gut syndrome
+a head ct   -> any acute processes
+vistaril   -> nausea
+dehydration   -> mild ari
+initial volume repletion   -> dehydration
+initial volume repletion   -> mild ari
+a cta   -> pe
+a cta   -> multifocal bilateral pna
+a cta   -> pe
+two back surgeries   -> degenerative disc disease
+nrb   -> hypoxic
+ileostomy   -> short gut syndrome
+ileostomy   -> crohn 's disease
+ards   -> diffuse infiltrative process
+pseudocyst formation   -> chronic pancreatitis
+risperdal   -> eps side effects
+   -> arthritis
+ct   -> chronic idiopathic pancreatitis
+dec. air movement   -> crackles at right base
+ileostomy   -> short gut syndrome
+ileostomy   -> crohn 's disease
+abd ct   -> multiple calcifications in the body and tail of the pancreas
+abd ct   -> a larger cystic lesion in the tail of the pancreas
+the cxr   -> ptx
+the cxr   -> pna
+eventual ileostomy   -> short gut syndrome
+eventual ileostomy   -> crohn 's disease
+iv hydration   -> short gut syndrome
+replacement   -> clotting
+1l nc   -> her o2 requirement
+a pna   -> an elevated wbc count
+a pna   -> sob
+a pna   -> sx of chest pain
+a pna   -> her fever
+the vent   -> her o2 requirement
+nutritional support   -> short gut syndrome
+a chest x ray   -> diffuse infiltrative process
+port-a-cath placement   -> short gut syndrome
+port-a-cath placement   -> clotting
+head ct   -> delta ms
+tpn   -> short gut syndrome
+pt 's blood cultures   -> staph aureus
+pt 's blood cultures   -> enterococcus
+palpation over ruq   -> tender
+palpation over ruq   -> guarding
+palpation over ruq   -> rebound
+ileostomy   -> crohn 's
+ileostomy   -> short gut syndrome
+the multi-focal pna   -> significant pain
+tpn   -> short gut syndrome
+the chest ct   -> multifocal consolidation
+coronary artery bypass graft   -> coronary artery disease
+a amiodarone gtt   -> burst of atrial fibrillation
+antibiotics   -> left arm phlebitis
+creams   -> incisions
+cath   -> abnormal ett
+powders   -> incisions
+lotions   -> incisions
+ointments   -> incisions
+oxycodone - acetaminophen   -> pain
+drugs   -> known allergies
+cath   -> severe 3 vessel disease
+cxr   -> left lower lobe atelectasis
+cabg   -> mi
+po amiodarone   -> further episodes of afib
+overall left ventricular systolic function   -> mildly depressed
+wounds   -> infection
+wounds   -> redness
+wounds   -> drainage
+wounds   -> increased pain
+examination   -> coarse rhonchi
+chest ct scan   -> pulmonary embolism
+chest ct scan   -> consolidation
+neurontin   -> seizure history
+chest x-ray   -> mild pulmonary edema
+blood pressure   -> hypotensive
+a normal saline bolus   -> hypotensive
+levofloxacin   -> hypotensive
+penicillin   -> a rash
+iodine   -> sensitivity
+uncoated aspirin   -> dyspepsia
+cough   -> white sputum
+chronic diarrhea   -> dehydration
+the patient 's coumadin   -> her positive lupus anti-coagulant status
+the patient 's coumadin   -> her basilar artery stenosis
+her paraplegia   -> muscle spasticity
+ekg   -> sinus tachycardia
+citalopram   -> her depression
+intravenous fluids   -> her chronic diarrhea
+her zanaflex   -> muscle spasticity
+paraplegia   -> htlv
+slurred speech   -> dehydrated
+paraplegia   -> htlv exposure
+overnight observation   -> her somnolence
+overnight observation   -> hypotension
+a head ct scan   -> change
+a head ct scan   -> recent bleed
+admission examination   -> apparent distress
+cardiovascular examination   -> murmurs
+cardiovascular examination   -> rubs
+cardiovascular examination   -> gallops
+levofloxacin   -> pneumonia
+pressure stockings   -> two plus lower extremity edema
+medical treatment   -> acute coronary syndrome
+tnk   -> his pain
+intra-aortic balloon pump placement   -> acute coronary syndrome
+percutaneous transluminal coronary angioplasty   -> acute coronary syndrome
+3-vessel percutaneous transluminal coronary angioplasty   -> coronary artery disease
+status post percutaneous transluminal coronary angioplasty   -> coronary artery disease
+status post angio-jet percutaneous transluminal coronary angioplasty   -> acute coronary syndrome
+tnk   -> acute coronary syndrome
+intra-aortic balloon pump   -> tenderness
+nitroglycerin drip   -> his pain
+stent of proximal left anterior descending artery   -> acute coronary syndrome
+heparin drip   -> his pain
+dilaudid   -> his pain
+pulmonary artery catheterization   -> tenderness
+catheterization results   -> 100% occlusion of the proximal left anterior descending artery
+catheterization results   -> 50% stenosis of first diagonal
+post catheterization echocardiogram   -> moderate systolic dysfunction
+post catheterization echocardiogram   -> basal anterior hypokinesis
+post catheterization echocardiogram   -> mid anterior akinesis
+post catheterization echocardiogram   -> basal anteroseptal hypokinesis
+post catheterization echocardiogram   -> mid anteroseptal akinesis
+aspirin   -> his pain
+iodine   -> allergies
+status post 2-vessel percutaneous transluminal coronary angioplasty   -> coronary artery disease
+penicillin   -> allergies
+electrocardiogram   -> st elevations
+electrocardiogram   -> j point elevations in v2 through v4
+electrocardiogram   -> continued st elevations
+electrocardiogram   -> j point elevations in v2 through v3
+bp   -> hypotension
+docusate sodium   -> constipation
+copious ivf hydration   -> his massive fluid overload
+several complications   -> an aicd pocket infection
+very deconditioned   -> several complications
+oxycodone   -> pain
+acetaminophen   -> pain
+a swan   -> volume overloaded
+swan numbers   -> volume overloaded
+swan numbers   -> elevated cvp
+swan numbers   -> an elevated pad
+a high co   -> sepsis
+low svr   -> sepsis
+an eeg   -> mild encephalopathy
+levofloxacin   -> uti
+percocet   -> back pain
+abnormal eeg   -> the moderately slow posterior background
+abnormal eeg   -> generalized slowing
+stronger narcotics   -> somnolence
+stronger narcotics   -> ms changes
+the cardiac monitor   -> occasional irregularities
+gentle cleansing   -> the left gluteal pressure ulcer
+normal saline   -> the left gluteal pressure ulcer
+subtle hypodensities within the periventricular white matter   -> chronic microvascular ischemic changes
+the patient 's inr   -> supratherapeutic
+commercial wound cleaner   -> the left gluteal pressure ulcer
+duoderm gel   -> the left gluteal pressure ulcer
+coumadin   -> supratherapeutic
+commercial wound cleanser   -> the left chest wound
+saline   -> the left chest wound
+pack aquacel ag rope   -> the left chest wound
+dry gauze   -> the left chest wound
+tap   -> the right pleural effusion
+continued diuresis   -> the right pleural effusion
+repeat cxr   -> the effusion
+scattered parenchymal opacities in the left lower lobe   -> superimposed infection
+scattered parenchymal opacities in the left lower lobe   -> atelectasis
+an initial troponin bump   -> chf exacerbation
+the left ventricular inflow pattern   -> a restrictive filling abnormality
+the left ventricular inflow pattern   -> elevated left atrial pressure
+his underlying rhythm   -> atrial flutter
+cloudy   -> his worsening sob
+resting regional wall motion abnormalities   -> inferior and inferolateral hypokinesis
+serial abgs   -> the metabolic alkalosis
+s/p right thoracentesis   -> pleural effusions
+s/p right thoracentesis   -> serosanguinous fluid
+lv systolic function   -> depressed
+congestive heart failure   -> bilateral effusions
+congestive heart failure   -> underlying consolidation in the rll
+sedatives   -> a depressed respiratory drive
+sedatives   -> agitation
+a depressed respiratory drive   -> a preexisting alkalosis
+amiodarone   -> post-op afib
+a head ct   -> old lacunar infarcts
+a head ct   -> a change in mental status
+metabolic abnormalities   -> delerium
+baseline dementia   -> delerium
+s/p lad ptca   -> cad
+s/p lad ptca   -> cad
+jvd   -> increased neck girth
+t2dm   -> nephropathy
+t2dm   -> neuropathy
+transmitral doppler   -> grade iii/iv ( severe ) left ventricular diastolic dysfunction
+s/p mediastinal exploration   -> pericardial effusion
+evacuation   -> pericardial effusion
+evacuation   -> hematoma
+tissue velocity imaging   -> grade iii/iv ( severe ) left ventricular diastolic dysfunction
+aicd pocket infection   -> mssa bacteremia
+his new , severe global deficit   -> a more pervasive process
+his new , severe global deficit   -> anoxic encephalopathy
+the left ventricular inflow pattern   -> impaired relaxation
+vancomycin   -> mrsa
+vancomycin   -> pseudomonas
+subsequent tracheostomy   -> respiratory failure
+respiratory failure   -> pulmonary edema
+blunting of left cpa   -> effusion
+new lower left lateral cw opacity   -> loculated pleural fluid
+s/p xrt   -> non-small cell lung cancer
+s/p right pneumonectomy   -> recurrence
+ekg   -> acute changes
+chemotherapy   -> non-small cell lung cancer
+chemotherapy   -> non-small cell lung cancer
+s/p right pneumonectomy   -> recurrence
+new rounded low-density area   -> subacute infarction
+echocardiographic signs   -> tamponade
+the recent chest x-ray   -> so-called pseudotumor
+the recent chest x-ray   -> small loculated pleural fluid collection along the periphery
+the basal lv   -> hyperdynamic
+the basal lv   -> regional contraction abnormality
+vancomycin   -> c.difficile colitis
+flagyl   -> c.difficile colitis
+markedly abnormal portable eeg   -> the bursts of generalized slowing
+markedly abnormal portable eeg   -> the voltage suppression over the left hemisphere
+markedly abnormal portable eeg   -> right hemisphere slowing
+zosyn   -> mrsa
+zosyn   -> pseudomonas
+the first abnormality   -> widespread cortical dysfunction on that side
+the first abnormality   -> material ( such as subdural fluid ) interposed between the brain
+the generalized slowing   -> a non specific dysfunction in midline structures
+s/p xrt   -> non-small cell lung cancer
+sputum cultures   -> pseudomonas
+sputum cultures   -> mrsa
+this work-up   -> a small left basal ganglia infarct
+this work-up   -> cardioembolic
+a small left basal ganglia infarct   -> cardioembolic
+vancomycin   -> sepsis
+vancomycin   -> recent mrsa pneumonia
+flagyl   -> c.diff
+status post pm/icd placement   -> sick sinus syndrome
+flagyl   -> c. difficile colitis
+respiratory failure   -> mucus plugging
+respiratory failure   -> a pseudomonal pneumonia
+levophed   -> c.difficile colitis
+vancomycin   -> sepsis
+vancomycin   -> recent mrsa pneumonia
+sputum culture   -> pseudomonas aeruginosa
+status post pm/icd placement   -> sss
+palpation   -> grimacing
+status post tracheostomy   -> failure to wean
+stool   -> c.diff
+ns ivf   -> bp dropped
+flagyl   -> c. difficile colitis
+airway protection   -> change in mental status
+nasal washings   -> influenza
+s/p l shoulder hemiarthroplasty   -> a left humeral fracuture
+film   -> a new humerus fracture distal to the hardware
+vancomycin   -> empiric line infection
+the pt 's vs   -> initial hypertensive
+the pt 's vs   -> a fever
+the pt 's vs   -> tachycardia
+hd   -> esrd
+linezolid   -> vre infection in the urine
+a pea arrest   -> pe
+urine culture   -> vre
+pe   -> pea arrest
+slightly limited   -> hypotension
+hd   -> esrd
+fluconazole   -> yeast in the urine
+an insulin drip   -> type 2 dm
+chest pain   -> associated symptoms
+patient 's le ulcers   -> infection
+diabetic nephropathy   -> esrd
+flagyl   -> c. diff. colitis
+fluconazole   -> yeast in the urine
+hd   -> her illness
+hemodialysis   -> chronic kidney disease
+intubated   -> obtunded
+echo   -> wma
+tylenol   -> a headache
+tylenol   -> fevers
+ecg   -> new diffuse twi in all leads
+hd.   -> overdiuresis
+ua   -> infection
+lp   -> infection
+hemiarthroplasty   -> a left shoulder fracture
+a septic component   -> the hypotension
+abdominal ct   -> infection
+airway protection   -> obtunded
+cxr   -> infection
+levoflox   -> febrile
+levophed   -> continued hypotension
+esrd   -> her dm
+hd   -> esrd
+heparin drip   -> pe
+sepsis protocol   -> sepsis
+vancomycin   -> febrile
+hd   -> esrd
+hypotension   -> overdiuresis
+recent pe   -> pea arrest
+monitor   -> infection
+recent pe   -> pea arrest
+hd   -> esrd
+more edematous   -> an abscess in the area
+more edematous   -> a clot
+more edematous   -> fracture
+ultrasound   -> clot
+urine cx   -> vre
+necrosis of the heels and posterior calf   -> dry gangrene of toes bilaterally
+pe   -> s/p pea arrest
+the blood   -> any bacteria
+an infection   -> low blood pressure
+an infection   -> fevers
+his gamma glutamyl transferase   -> a confirmatory elevation
+his neurological examination   -> atraumatic
+his neurological examination   -> a hematoma
+a computerized axial tomography scan of his head   -> any extra or intracranial hemorrhage
+his brachytherapy   -> his prostate cancer
+his brachytherapy   -> rectal bleeding
+verapamil   -> mildly tachycardiac
+rapid ventricular response   -> atrial fibrillation
+magnetic resonance cholangiopancreatography   -> biliary dilatation
+magnetic resonance cholangiopancreatography   -> any obstructing pancreatic mass
+an magnetic resonance cholangiopancreatography   -> a partial biliary obstruction
+chronic hepatic vascular congestion   -> dilated hepatic veins
+chronic hepatic vascular congestion   -> a slightly irregular contour of the liver
+a slightly irregular contour of the liver   -> dilated hepatic veins
+systolic blood pressures   -> mildly hypotensive
+a cardiac catheterization   -> the patient 's heart failure
+echocardiogram   -> moderate dilated left atrium
+echocardiogram   -> atrioseptal defect
+echocardiogram   -> severe global left ventricular hypokinesis
+echocardiogram   -> severe left ventricular systolic function
+echocardiogram   -> moderately dilated right ventricle
+chest x-rays   -> congestive heart failure
+his congestive heart failure   -> vascular congestion
+an irregular hepatic contour   -> underlying chronic liver disease
+electrocardiogram   -> atrial fibrillation
+electrocardiogram   -> rapid ventricular response
+electrocardiogram   -> atrial flutter
+atrial fibrillation   -> rapid ventricular response
+atrial fibrillation   -> atrial flutter
+abnormal liver function tests   -> an isolated , elevated alkaline phosphatase
+abnormal liver function tests   -> a confirmatory elevation
+an ultrasound of the right upper quadrant   -> any cholelithiasis
+an ultrasound of the right upper quadrant   -> cholecystitis
+an ultrasound of the right upper quadrant   -> an irregular hepatic contour
+barium   -> allergy
+the patient 's hypotension   -> his rapid ventricular response
+the patient 's hypotension   -> right heart failure
+argon laser therapy   -> his rectal bleeding
+abnormal septal motion   -> right ventricular volume overload
+repeat argon laser therapy   -> his rectal bleeding
+his heart rate   -> mildly tachycardiac
+cpap   -> obstructive sleep apnea
+flagyl   -> osteomyelitis
+levofloxacin   -> osteomyelitis
+resting regional wall motion abnormalities   -> mild apical hypokinesis
+cxr   -> major adverse interval change
+ct   -> acute intracranial hemorrhage
+coumadin   -> bilateral dvt
+inr   -> bilateral dvt
+heparin   -> bilateral dvt
+a cardiac cath   -> coronary disease
+a cardiac cath   -> three vessel coronary artery disease
+initial ekg   -> st depressions
+cardiac enzymes   -> elevated
+wounds   -> signs of infection
+ointments   -> incisions
+lotions   -> incisions
+left carotid stenting   -> carotid stenosis
+coronary artery bypass graft   -> coronary artery disease
+creams   -> incisions
+ekg leads   -> some rashes on acw
+left carotid stenting   -> carotid stenosis
+ct angiogram   -> stenosis
+ct angiogram   -> aneurysm in the intracranial circulation
+chronic coumadin therapy   -> bilateral dvt 's
+cardiac surgery   -> cad
+episode   -> tia
+mri   -> acute infarction
+cnis   -> carotid stenosis
+slight irregularity   -> atherosclerotic
+antibiotics   -> bronchitis
+antibiotics   -> community-acquired pneumonia
+intubation   -> copd
+copd   -> copd exacerbation
+frequent nebulizers   -> copd
+closer observation   -> his tenuous respiratory status
+management   -> copd exacerbation
+fev1   -> copd
+fev1/fvc ratio   -> copd
+further management   -> his copd exacerbation
+p.o. prednisone   -> copd
+p.o. steroids   -> copd exacerbation
+more frequent nebulizers   -> copd
+more frequent nebulizers   -> more respiratory distress
+iv solu-medrol   -> copd
+iv solu-medrol   -> more respiratory distress
+end stage liver disease   -> hepatitis c cirrhosis
+miconazole nitrate powder   -> groin rash
+management   -> ascites
+management   -> encephalopathy
+the patient 's surgical incision   -> infection
+vancomycin therapy   -> his previously diagnosed methicillin resistant , coagulase negative staph bacteremia
+a platelet count   -> thrombocytopenic
+the procedure   -> complications
+examination   -> apparent distress
+her kidney transplantation   -> a well healed left lower quadrant incision
+cadaveric pancreas transplantation   -> complication
+kidney transplantation   -> end stage renal disease
+her diabetes mellitus   -> retinopathy
+her diabetes mellitus   -> nephropathy
+her diabetes mellitus   -> peripheral neuropathy
+bilateral lower extremeties   -> dvt
+symptoms   -> trauma
+ct chest   -> bilateral segmental , subsegmental pes
+ateletasis of lingula   -> pneumonitis
+a d-dimer   -> elevated
+laxative abuse   -> chronic constipation
+cta   -> bilateral pulmonary embolisms
+patient 's urinalysis   -> uti
+abg   -> widened a-a gradient
+coumadin   -> clots
+asa   -> tricyclic
+antibiotics   -> urinary tract infection
+levofloxacin   -> uti
+review of systems   -> progressive abdominal discomfort
+review of systems   -> decreased oral intake
+review of systems   -> weakness
+treatment   -> pneumonia
+removal   -> fluid
+removal   -> fluid
+cardiovascular examination   -> tachycardic first heart sound and second heart sound
+recently diagnosed abdominal carcinomatosis   -> increased abdominal pain
+treatment   -> the pulmonary emboli
+extremity examination   -> edema
+extremity examination   -> cyanosis
+extremity examination   -> clubbing
+abdominal pain   -> bloating
+difficulty catching his breath   -> increased shortness of breath
+flagyl   -> pneumonia
+biopsy   -> adenocarcinoma
+an angiogram   -> subsegmental pulmonary emboli of the upper lobes
+an angiogram   -> infiltrates
+an angiogram   -> aspiration pneumonia
+infiltrates   -> aspiration pneumonia
+percussion   -> dullness
+a chest x-ray   -> a left pleural effusion
+endoscopies   -> an extrinsic mass present on the stomach
+intravenous heparin   -> pulmonary embolism
+paracentesis   -> fluid
+levaquin   -> pneumonia
+heparin   -> the pulmonary emboli
+octreotide   -> the gastric secretions
+an nasogastric tube   -> persistent gastric secretions
+decompression   -> persistent gastric secretions
+a thoracentesis   -> fluid
+a paracentesis   -> fluid
+the mri of your knee   -> a meniscal tear
+ct chest   -> saddle pe
+ef   -> hyperdynamic
+left ventricular systolic function   -> hyperdynamic
+acute management   -> pe
+an injury   -> meniscal tear
+physical exam   -> an injury
+physical exam   -> meniscal tear
+ekg   -> ischemia
+hemodynamic monitoring   -> saddle pulmonary embolus
+anticoagulation   -> saddle pulmonary embolus
+lysis   -> hemodynamic instability
+p-pulmonale   -> clot burden
+anticoagulation   -> saddle pe
+ischemia   -> any wall motion abnormalities
+a small troponin leak   -> right heart strain
+a small troponin leak   -> p-pulmonale
+a small troponin leak   -> clot burden
+right heart strain   -> p-pulmonale
+right heart strain   -> clot burden
+an echo   -> any wall motion abnormalities
+vs   -> tachy
+bucket handle medial meniscal tear   -> flipped fragment in the intercondylar notch
+moderate knee joint effusion   -> ganglion cyst at the insertion of the pcl
+essentially bed bound   -> unable to ambulate
+trauma to leg   -> immobility
+trauma to leg   -> stasis
+his embolus   -> dvt from the left leg
+chest x-ray   -> left lower lobe infiltrate
+a foley catheterization   -> neurogenic bladder
+persistent carbon dioxide retention   -> respiratory acidosis
+respiratory acidosis   -> the intermittent mental status changes
+albuterol nebulizer treatments   -> her chronic obstructive pulmonary disease
+ipratropium nebulizer treatments   -> her chronic obstructive pulmonary disease
+albuterol sulfate solution   -> shortness of breath
+smear   -> megaloblastic cells
+zithromax   -> consolidation
+zithromax   -> pneumonia
+ceftriaxone   -> consolidation
+ceftriaxone   -> pneumonia
+anemia   -> high mcv
+anemia   -> megaloblastic cells
+antibiotics   -> consolidation
+antibiotics   -> pneumonia
+mucomyst   -> secretions
+percocet   -> pain relief
+a mucolytic component   -> secretions
+her chest x-ray   -> acute rib factors
+bipap   -> apneic
+bipap   -> obstructing
+ppi   -> reflux disease
+ppi   -> known gastritis
+bipap   -> copd
+bipap   -> asthma
+increased nebulizer treatments   -> copd
+increased nebulizer treatments   -> asthma exacerbation
+increased nebulizer treatments   -> upper respiratory like infection
+increased nebulizer treatments   -> pneumonia
+bipap   -> hypotensive
+bipap   -> bradycardiac
+anemia   -> chronic disease
+florinef   -> adrenal insufficiency
+stress echo   -> coronary artery disease
+levoxyl   -> hyperthyroidism
+b12 deficiency   -> borderline low b12 levels
+3 fluid boluses   -> bradycardiac
+3 fluid boluses   -> hypotensive
+b12 deficiency   -> poor p.o. intake
+chest x-ray   -> consolidation
+active airway disease component   -> her shortness of breath
+solu-medrol iv   -> active airway disease component
+solu-medrol iv   -> her shortness of breath
+jvp   -> elevated
+ct scan   -> ground glass opacities
+ground glass opacities   -> an underlying infectious process
+replacement   -> abnormal tfts
+left radical nephrectomy   -> metastatic renal cell carcinoma
+predominantly sclerotic lesion   -> interval periosteal new bone formation
+renal cell carcinoma of chromophobe type   -> carter nuclear grade
+avastin   -> proteinuria
+bibasilar pneumonia   -> community-acquired pneumonia
+sutent   -> mild renal insufficiency
+drugs   -> known allergies
+l femur xray   -> predominantly sclerotic lesion
+l femur xray   -> interval periosteal new bone formation
+mild posterior mitral valve prolapse   -> mild mitral regurgitation
+further evaluation   -> bilateral pleural effusions
+further evaluation   -> cardiac insufficiency
+further evaluation   -> volume overload
+bilateral pleural effusions   -> cardiac insufficiency
+bilateral pleural effusions   -> volume overload
+bilateral le doppler   -> deep venous thrombosis in the lower extremities bilaterally
+gentle hydration   -> prerenal component
+cardiac enzymes   -> chest pain
+an echocardiogram   -> chest pain
+creatinine   -> renal insufficiency
+a pharmacological stress test   -> chest pain
+recent ct scan   -> destruction of l femoral neck
+levaquin   -> a pneumonia
+sutent   -> abnormal tfts
+an antibiotic   -> a pneumonia
+a mild cough   -> non-productive
+cxray   -> new bibasilar consolidations
+cxray   -> bilateral small pleural effusion
+an xray of the l femur   -> an acute fracture
+docusate sodium   -> constipation
+cxr   -> bibasilar consolidations
+morphine   -> pain
+imodium   -> diarrhea
+sorafenib   -> metastatic rcc
+avastin   -> metastatic rcc
+sutent   -> diarrhea
+sutent monotherapy   -> metastatic rcc
+lomotil   -> diarrhea
+scattered ground glass opacities involving the right lung   -> an infectious process
+an echocardiogram   -> volume overload
+an echocardiogram   -> bilateral pleural effusions
+an echocardiogram   -> cardiac insufficiency
+sutent   -> metastatic rcc
+a staging ct scan torso   -> significant increase in tumor burden
+sutent   -> acute infection
+sutent   -> metastatic rcc
+left radical nephrectomy   -> metastatic rcc
+further ros   -> mild sob
+echo   -> mild symmetric left ventricular hypertrophy
+an infectious etiology   -> new jejunal wall thickening
+an infectious etiology   -> persistent distal ileal wall thickening
+an infectious etiology   -> diffuse mesenteric stranding
+tree-in-eric nodular opacities   -> an infectious process
+left transverse mid shaft radial fracture   -> ulnar displacement
+further inspection   -> a 5 cm laceration
+further inspection   -> exposed underlying bone
+left upper extremity examination   -> decreased sensation in the ulnar-nerve distribution
+left upper extremity examination   -> gross deformities
+left upper extremity examination   -> tenderness
+a duplex evaluation of the right lower extremity   -> major arterial or venous injury
+a duplex evaluation of the right lower extremity   -> the patient 's right thigh hematoma
+right lower extremity examination   -> mild swelling
+right lower extremity examination   -> ecchymosis of the right posterior thigh
+right lower extremity examination   -> a 3 cm laceration in the lower leg
+mild swelling   -> ecchymosis of the right posterior thigh
+sutures   -> the patient 's right anterior tibial wound
+the patient 's right anterior tibial wound   -> erythema
+the patient 's right anterior tibial wound   -> purulence
+the patient 's lung examination   -> crepitus
+head ct   -> intracranial bleeding
+diagnostic procedures   -> injuries
+diagnostic procedures   -> a posterior scalp laceration
+diagnostic procedures   -> left fractured clavicle
+diagnostic procedures   -> left fractured radius
+diagnostic procedures   -> right thigh hematoma
+diagnostic procedures   -> right leg laceration
+injuries   -> a posterior scalp laceration
+injuries   -> left fractured clavicle
+injuries   -> left fractured radius
+injuries   -> right thigh hematoma
+injuries   -> right leg laceration
+examination   -> a left clavicular deformity
+cardiac examination   -> gallops
+cardiac examination   -> rubs
+cardiac examination   -> murmurs
+left lower extremity examination   -> gross deformities
+trauma series   -> a pelvic fracture
+dry gauze   -> the left forearm and right lower leg wound
+percocet   -> pain
+radiographic studies   -> an inferior displaced left midclavicular fracture
+cervical spine imaging   -> cervical spine injury
+palpation in the mid forearm   -> tenderness
+palpation   -> mild tenderness
+prior examinations   -> mild tenderness
+prior examinations   -> a minor stepoff
+percocet   -> pain
+right foot and femur series   -> fracture displacement
+left forearm and wrist series   -> transverse mid shaft radial fracture
+left forearm and wrist series   -> ulnar displacement
+transverse mid shaft radial fracture   -> ulnar displacement
+trauma ct   -> mild pulmonary contusions
+trauma ct   -> pelvic fracture
+diagnosis peritoneum lavage   -> intra-abdominal bleeding
+internal fixation   -> ulnar displacement
+internal fixation   -> left transverse mid shaft radial fracture
+right tibial-fibular film series   -> fracture displacement
+left radial open reduction   -> left transverse mid shaft radial fracture
+left radial open reduction   -> ulnar displacement
+prior examination   -> continued ecchymosis
+left humerus film series   -> fracture
+left humerus film series   -> displacement
+auscultation   -> crepitus
+nonoperative treatment   -> the patient 's left clavicular fracture
+intact staples   -> the patient 's head wound laceration
+regular dressing changes   -> the left forearm and right lower leg wound
+hyper-cvad   -> aml
+hyper-cvad   -> all
+all   -> aml
+a new chemotherapy protocol   -> aml
+a new chemotherapy protocol   -> all
+compazine   -> nausea
+anzemet   -> nausea
+examination   -> focal deficits
+gentle hydration   -> not adequate
+diastolic dysfunction   -> increased heart rate
+diastolic dysfunction   -> excess volume
+peripheral neuropathy   -> diabetic nephropathy
+urine cultures   -> febrile
+urinalysis   -> febrile
+rpr evaluating   -> neurologic syphilis
+impressive disc herniations at c5-c6   -> clear cut cord compression
+a cervical mri scan   -> impressive disc herniations at c5-c6
+a cervical mri scan   -> cervical myelopathy
+a cervical mri scan   -> clear cut cord compression
+his delirium   -> electrolytes or mineral abnormalities
+the restraints   -> acutely agitated
+uncomfortable   -> incisional tenderness
+uncomfortable   -> neck site
+uncomfortable   -> right iliac graft site
+neck site   -> incisional tenderness
+p.o. intake   -> not adequate
+signs and symptoms   -> cervical myelopathy
+an eeg   -> non-convulsive status epilepticus
+a head and neck ct scan , non-contrast   -> such processes
+cardiac enzymes   -> myocardial infarction
+cardiac enzymes   -> significant myocardial ischemia
+severe underlying structural abnormality   -> the fluctuating sensorium
+intravenous haldol   -> acutely agitated
+intramuscular   -> acutely agitated
+his congestive heart failure   -> excess volume
+his congestive heart failure   -> diastolic dysfunction
+his congestive heart failure   -> increased heart rate
+lasix   -> the excess volume
+restraints   -> that event
+tent   -> agitated
+surgery   -> the delirium
+a delirium work-up   -> confused
+a delirium work-up   -> waxing and waning sensorium
+waxing and waning sensorium   -> confused
+kidney transplantation   -> diabetic nephropathy
+total bilirubin   -> slightly elevated
+his creatinine   -> a baseline renal insufficiency
+poly-pharmacy   -> the delirium
+his non-essential medications   -> his change in mental status
+transurethral resection of the prostate   -> benign prostatic hypertrophy
+soreness   -> his operative sites
+bi-pap machine   -> agitated
+temocillin   -> his change in mental status
+p.r.n. tylenol   -> soreness
+p.r.n. tylenol   -> his delirium
+nortriptyline   -> his change in mental status
+lorazepam   -> his change in mental status
+haldol   -> his change in mental status
+postoperative radiation   -> throat cancer
+his diskectomy   -> postoperative swelling
+venlafaxine   -> his change in mental status
+bupropion   -> his change in mental status
+gabapentin   -> his change in mental status
+postoperative physical examination   -> afebrile
+finger sticks   -> acutely agitated
+soft and liquid diet   -> difficulty with swallowing
+xrt   -> throat cancer
+self catheterization   -> benign prostatic hypertrophy
+glucose levels   -> acutely agitated
+type 1 diabetes mellitus   -> end-stage renal disease
+local resection   -> throat cancer
+type 1 diabetes mellitus   -> triopathy
+type 1 diabetes mellitus   -> retinopathy
+type 1 diabetes mellitus   -> neuropathy
+type 1 diabetes mellitus   -> nephropathy
+chest x-ray   -> febrile
+renal transplant   -> end-stage renal disease
+right neck dissection   -> throat cancer
+radical neck dissection on the left   -> throat cancer
+blood cultures   -> febrile
+a ct scan with po contrast   -> dilation of intrahepatic common bile duct
+white blood cell   -> an elevation
+his creatinine levels   -> the prerenal kidney failure
+the ascites   -> svt
+the fractional excretion of sodium   -> the prerenal kidney failure
+nodularity in the common bile duct   -> cholangiocarcinoma
+midodrine   -> this condition
+exploration of the abdomen   -> significant nodularity of the liver
+exploration of the abdomen   -> advanced cirrhosis
+significant nodularity of the liver   -> advanced cirrhosis
+nodularities in the common bile duct   -> cholangiocarcinoma
+fractional excretion of sodium   -> a prerenal etiology
+cholangiogram   -> leakage at the anastomosis site
+culture   -> the ascites
+culture   -> any organism
+gram stain   -> the ascites
+gram stain   -> any organism
+surgical interventions   -> nodularities in the common bile duct
+surgical interventions   -> cholangiocarcinoma
+somatostatin   -> this condition
+endoscopic retrograde cholangiopancreatography   -> region nodularity
+pathology   -> region nodularity
+a hepaticojejunostomy   -> malignancy
+previous studies   -> dilation of intrahepatic common bile duct
+cholangiogram   -> a distal stricture of the common bile duct
+chest x-ray   -> minimal left base atelectasis
+chest x-ray   -> elevation of left hemidiaphragm
+elevation of left hemidiaphragm   -> minimal left base atelectasis
+white blood cell count   -> the ascites
+intravenous albumin   -> prerenal azotemia
+rectal exam   -> masses
+a chest x-ray   -> any pneumonia
+hepaticojejunostomy   -> psc
+distentions of the abdomen   -> accumulation of ascitic fluid
+endoscopic retrograde cholangiopancreatography   -> nodularities in the common bile duct
+zantac   -> gastroesophageal reflux disease
+liver function tests   -> slightly elevated liver function tests
+sublingual nitroglycerin   -> exertional chest pain
+physical examination   -> afebrile
+postoperative delirium   -> distinctive psychiatric disorder
+subsequent radiographic imaging   -> an acute infarct
+subsequent radiographic imaging   -> chronic appearing infarcts in the right occipital lobe
+subsequent radiographic imaging   -> more chronic infarcts
+subsequent radiographic imaging   -> his confusion
+chronic appearing infarcts in the right occipital lobe   -> more chronic infarcts
+his stroke   -> his inability to eat
+chronic rbc transfusion   -> chronic blood loss anemia
+review of systems   -> any orthopnea
+review of systems   -> paroxysmal nocturnal dyspnea
+a urine culture   -> e. coli
+aortic arch graft   -> aortic arch aneurysm
+an insulin sliding scale   -> slightly elevated blood sugars
+cholecystitis   -> cholelithiasis
+the major neurologic event   -> slow to awake
+intermittently resistant   -> e. coli
+his propofol drip   -> slow to awake
+his propofol drip   -> the major neurologic event
+bactrim   -> the e. coli in his urine
+basal insulin   -> slightly elevated blood sugars
+his blood sugars   -> slightly elevated blood sugars
+ciprofloxacin   -> intermittently resistant
+ciprofloxacin   -> e. coli
+aortic valve replacement   -> critical aortic stenosis
+common bile duct dilatation   -> cholecystitis
+common bile duct dilatation   -> cholelithiasis
+coronary artery bypass graft   -> coronary artery disease
+any gallstones   -> cholecystitis
+any gallstones   -> cholelithiasis
+cardiac catheterization   -> 80% stenosis of the mid left anterior descending
+cardiac catheterization   -> a dilated aortic root
+cardiac catheterization   -> 70% stenoses of the left circumflex and oblique marginal artery
+cardiac catheterization   -> 90% stenosis of the posterior descending artery
+the catheterization tip   -> serratia
+a right upper quadrant ultrasound   -> any gallstones
+a right upper quadrant ultrasound   -> common bile duct dilatation
+his psychiatric issues   -> his neurologic insults
+his psychiatric issues   -> distinctive psychiatric disorder
+his psychiatric issues   -> postoperative delirium
+positive blood and urine cultures   -> methicillin resistant staphylococcus aureus
+the procedure   -> his sternal wound
+pan sensitive   -> methicillin resistant staphylococcus aureus
+repair   -> his critical aortic stenosis
+repair   -> his coronary artery disease
+repair   -> his significantly dilated ascending aortic aneurysm
+a little bit out of it   -> somewhat confused
+the pneumonia   -> recent weight loss
+metoprolol   -> hypertension
+mi   -> cad
+wound swab   -> vre
+colonscopy   -> friable colonic tissue
+colonscopy   -> pseudomembrane
+decompression   -> tender
+decompression   -> distended
+repair   -> colovesicular fistula
+nitroglycerin   -> unstable angina
+prior study   -> pneumatosis in the ascending colon
+white strips   -> your incisions
+focal narrowing of the sigmoid colon   -> the dilatation
+focal narrowing of the sigmoid colon   -> wall thickening
+the dilatation   -> wall thickening
+her initial ct scan   -> dilated turner colon
+her initial ct scan   -> wall thickening
+her initial ct scan   -> pneumatosis
+oxycodone   -> pain
+staples   -> her incision
+repair   -> colovesicular fistula
+a cystoscopy   -> leak
+tf s,   -> high residuals
+tpn   -> high residuals
+g tube   -> unresponsiveness
+subtotal colectomy   -> unresponsiveness
+ileostomy   -> unresponsiveness
+non-operative treatment   -> unresponsiveness
+a small collection of extraluminal gas   -> left lower quadrant thick-walled peripherally enhancing fluid collection
+a ct scan   -> an abcess
+a ct scan   -> a colovesicular fistula
+an abcess   -> a colovesicular fistula
+iv pain medicines   -> her pain
+treatment   -> persistent hyperglycemia
+lasix po   -> trace lower extremity edema
+repair   -> colovesicular fistula
+limited evaluation   -> known sigmoid-vesicle fistula
+further clinical investigation   -> cancer
+further clinical investigation   -> an underlying mass lesion
+colace   -> constipation
+pain medication   -> drowsy
+a dry dressing   -> clear drainage
+a dry dressing   -> your incisions
+your incisions   -> clear drainage
+a stool softener   -> constipation
+vcug   -> leak
+troponins   -> mildly elevated
+your incisions   -> foul smelling or colorful drainage
+diverticulitis   -> the dilatation
+diverticulitis   -> wall thickening
+diverticulitis   -> focal narrowing of the sigmoid colon
+sigmoid diverticulosis   -> focal narrowing of the sigmoid colon
+compressive atelectasis   -> small bilateral pleural effusions
+repair   -> a leak from relaford pouch
+cxr   -> aspiration pneumonia
+early pneumonia   -> patchy left retrocardiac opacity
+bipolar d/o   -> overdose
+aspiration   -> patchy left retrocardiac opacity
+patchy atelectasis   -> patchy left retrocardiac opacity
+inderal   -> overdose
+geodon   -> overdose
+klonopin   -> overdose
+her blood pressure   -> somewhat labile
+staples   -> incision
+scattered rhonchi   -> diminished breath sounds in the bases
+cardiac catheterization   -> her aortic stenosis
+echocardiogram   -> aortic stenosis
+aortic valve replacement   -> aortic stenosis
+a #21 mosaic porcine valve   -> aortic stenosis
+an lvedp   -> severe aortic stenosis
+pa pressure   -> moderate pulmonary hypertension
+ventilatory support   -> a persistent acidemia
+a persistent flow   -> pa fistula
+a persistent flow   -> the circumflex to pa branch fistula
+minimally invasive mitral valve repair   -> mitral regurgitation
+intracranial pathology   -> diabetes insipidus
+a head ct scan   -> intracranial pathology
+coil embolization   -> a persistent flow
+coil embolization   -> pa fistula
+coil embolization   -> the circumflex to pa branch fistula
+cardiac catheterization   -> significant disease in the coronary arteries
+chest x-ray   -> infiltrate
+chest x-ray   -> pneumothorax
+worsening anginal symptoms   -> severe three-vessel disease
+your chest wound   -> pus
+your chest wound   -> tenderness
+your chest wound   -> swelling
+your chest wound   -> redness
+catheterization   -> worsening anginal symptoms
+catheterization   -> severe three-vessel disease
+oxycodone   -> pain
+acetaminophen   -> pain
+surgical intervention   -> coronary artery disease
+docusate sodium   -> constipation
+his hct   -> anemia
+colon can to liver   -> serosal implants
+resxn   -> colon can to liver
+resxn   -> serosal implants
+acetaminophen   -> fever
+acetaminophen   -> pain
+oxycodone   -> pain
+cabg   -> cad
+dm   -> neuropathy
+an mri   -> a signal abno in l3 l4
+an mri   -> disciitis
+an mri   -> osteo
+an mri   -> a definitive epidural abscess
+a signal abno in l3 l4   -> disciitis
+a signal abno in l3 l4   -> osteo
+a signal abno in l3 l4   -> a definitive epidural abscess
+dm   -> neuropathy
+his cane   -> back pain
+colon cancer   -> mets to liver
+cabg   -> cad
+resection   -> colon cancer
+colon cancer   -> mets to liver
+cxr   -> small pleural effusion
+blood cx   -> corynebacterium
+ii/vi sem at lsb   -> radiation to apex
+dressing   -> r le ulcer
+port a cath in r chest   -> erythema
+port a cath in r chest   -> tenderness
+mri lumbar spine   -> l3-4 osteomyelitis
+mri lumbar spine   -> discitis
+mri lumbar spine   -> epidural abscess
+degenerative changes   -> multilevel central spinal stenosis
+impression on the anterior aspect of the lower spinal cord at t11-12   -> disc bulge
+corynebacterium bacteremia   -> epidural abscess
+cxr   -> persistent unchanged l mid and lower lung field airspace disease
+cxr   -> moderate l pleural effusion
+cxr   -> an effusion
+known liver mets   -> colon cancer
+blood cultures   -> corynebacterium
+the surgery   -> low hematocrit
+the surgery   -> hyponatremia
+blood culture   -> candidemia
+tap   -> small pleural effusion
+the procedure   -> small pleural effusion
+corynebacterium   -> epidural abscess
+the tap   -> malignant cells
+the mri   -> l3-4 osteomyelitis
+the mri   -> discitis
+the mri   -> an epidural abscess
+nodular thickening   -> intrapleural tumor implants
+surgery   -> diabetic ulcer
+a repeat ct   -> nodular thickening
+vancomycin   -> corynebacterium
+resection   -> colon cancer
+pleurodesis   -> fluid accumulation
+amoxicillin   -> enterococcus
+amoxicillin   -> klebsiella
+octreotide   -> hepatorenal
+her creatinine   -> her worsening liver failure
+hcv cirrhosis   -> esophageal varices
+hcv cirrhosis   -> ascites
+hcv cirrhosis   -> partial portal vein thrombosis
+cr   -> syndrome
+midodrine   -> worsening renal function
+uti   -> klebsiella
+uti   -> enterococcus
+cryoglobulins   -> mild dic
+na   -> pre-renal
+na   -> hepatorenal
+albumin   -> worsening renal function
+urine lytes   -> pre-renal
+urine lytes   -> hepatorenal
+bear hugger   -> low
+midodrine   -> hepatorenal
+albumin   -> hepatorenal
+her bp   -> decreased
+hct dropped   -> bleed into her abdomen
+temp   -> low
+ns   -> decreased
+the tap   -> hct dropped
+the tap   -> bleed into her abdomen
+the tap   -> anemia
+anemia   -> bleed into her abdomen
+anemia   -> hct dropped
+ct of the abdomen and pelvis   -> bleed
+medication   -> abd pain
+creatinine   -> arf
+hcv cirrhosis   -> encephalopathy
+hcv cirrhosis   -> esophageal varices
+hcv cirrhosis   -> partial vein thrombosis
+replacement with albumin   -> recurrent ascites
+a large volume paracentesis   -> recurrent ascites
+the large volume paracentesis   -> hypotensive
+the large volume paracentesis   -> hypotension
+replacement with albumin   -> hypotensive
+replacement with albumin   -> hypotension
+hcv cirrhosis   -> encephalopathy
+hcv cirrhosis   -> ascites
+hcv cirrhosis   -> portal vein thrombosis
+hcv cirrhosis   -> increasing abdominal girth
+ascites   -> increasing abdominal girth
+increasing abdominal girth   -> ascites
+cholelithiasis   -> acute cholecystitis
+liver non-palpable   -> large volume of ascited
+paracentesis   -> her abdominal pain
+paracentesis   -> abdominal discomfort
+abdominal discomfort   -> her abdominal pain
+octreotide   -> worsening renal function
+her urine output   -> minimal
+percussion   -> dull
+chest x-ray   -> tuberculosis
+an urgent cesarean section   -> maternal hypertension
+thickening   -> trisomy 21
+ct scan   -> fluid and gas in the endometrial cavity
+ct scan   -> continued abdominal pain
+bacterial vaginosis   -> continuing vaginal discharge
+her blood cultures   -> gram-positive cocci in pairs and clusters
+her blood cultures   -> positive
+positive   -> gram-positive cocci in pairs and clusters
+flagyl   -> bacterial vaginosis
+flagyl   -> continuing vaginal discharge
+dilatation and curettage   -> sab
+her sedimentation rate   -> elevated
+treatment   -> fluid
+treatment   -> gas in the endometrial cavity
+admission   -> fluid
+admission   -> gas in the endometrial cavity
+clindamycin   -> staphylococcus coag-negative
+gentamicin   -> staphylococcus coag-negative
+further identification   -> staphylococcus coag-negative
+the anaerobic culture   -> gram-positive cocci in pairs and clusters
+the anaerobic culture   -> positive
+embolization   -> fibroid uterus
+drainage   -> the abscess
+a ct scan of her abdomen   -> fluid
+a ct scan of her abdomen   -> gas in the endometrial cavity
+an abdomen and pelvis ct   -> continued air in the endometrial cavity
+an abdomen and pelvis ct   -> the fundal fibroid
+her pelvic examination   -> some brownish discharge
+uterine artery embolization   -> fibroids
+a pelvic ultrasound   -> continued air in the endometrial cavity
+a pelvic ultrasound   -> the fundal fibroid
+status post uterine artery embolization   -> uterine fibroids
+infection   -> fevers
+infection   -> chills
+infection   -> increased redness
+infection   -> increased pain
+infection   -> purulent discharge from wound / incision site
+antibiotic ointment   -> wound
+antibiotic ointment   -> incision site
+basal cell carcinoma resection   -> acquired defect
+normal saline   -> incision site
+basal cell carcinoma   -> an aquired defect of the right nasal ala and medial cheek region
+signs and symptoms   -> infection
+basal cell carcinoma resection   -> aquired deformity of the right ala / nose and medial cheek
+docusate sodium   -> constipation
+her wound   -> infection
+her wound   -> breakdown
+bilateral pleural effusions   -> compressive atelectasis at the left lung base
+ct of the abdomen without iv contrast   -> bilateral pleural effusions
+ct of the abdomen without iv contrast   -> compressive atelectasis at the left lung base
+orif   -> right wrist fracture
+ct of the pelvis without iv contrast   -> a small amount of free fluid
+bilateral pleural effusions   -> left-sided compressive atelectasis
+exploratory laparotomy   -> intra-abdominal abscess
+exploratory laparotomy   -> gross soilage with bile and gastric contents
+exploratory laparotomy   -> peritonitis
+peritonitis   -> gross soilage with bile and gastric contents
+drainage   -> intra-abdominal abscess
+drainage   -> gross soilage with bile and gastric contents
+drainage   -> peritonitis
+transfusion dependent   -> anemia
+wide drainage   -> perforated posterior duodenal ulcer
+a b/l creatinine   -> chronic renal insufficiency
+beta blocker therapy   -> first degree a-v heart block
+pacemaker   -> symptomatic bradycardia
+ddd dual chamber rate response pacemaker   -> symptomatic bradycardia
+anemia   -> transfusion dependant
+iss   -> dm
+internal and external drainage   -> perforated posterior duodenal ulcer
+wide drainage   -> perforated posterior duodenal ulcer
+internal and external drainage   -> perforated posterior duodenal ulcer
+ct scan   -> free air
+ct scan   -> massive ascites
+cardiac catheterization   -> coronary artery disease
+cardiac catheterization   -> non-st-elevation myocardial infarction
+non-st-elevation myocardial infarction   -> coronary artery disease
+exploratory laparotomy   -> intra-abdominal abscess
+exploratory laparotomy   -> peritonitis
+exploratory laparotomy   -> gross soilage with bile and gastric contents
+gross soilage with bile and gastric contents   -> peritonitis
+an ejection fraction   -> chf
+left anterior descending artery stent placement   -> coronary artery disease
+left anterior descending artery stent placement   -> non-st-elevation myocardial infarction
+drainage   -> intra-abdominal abscess
+drainage   -> peritonitis
+drainage   -> gross soilage with bile and gastric contents
+new inferior and inferolateral wall motion abnormalities   -> more severe mitral regurgitation
+coronary angiography   -> single vessel disease in a right dominant system
+resting regional wall motion abnormalities   -> inferolateral , inferior and mid septal hypokinesis
+exposure   -> perforated posterior duodenal ulcer
+creatinine   -> moderate renal insufficiency
+a pa   -> moderate pulmonary hypertension
+a mean ra pressure   -> elevated right and left sided filling pressures
+resting hemodynamics   -> elevated right and left sided filling pressures
+a mean wedge pressure   -> elevated right and left sided filling pressures
+a mechanical fall   -> a hip and arm fracture
+left ventricular systolic function   -> mildly depressed
+ctropnt   -> acute mi
+ct of head and neck   -> dislocation
+ct of head and neck   -> fx
+ct of head and neck   -> bleed
+prednisone   -> pmr
+perforation   -> free air and free fluid in the pelvis and abdomen
+glipizide   -> dm
+orthopedic hardware   -> beam hardening artifact
+ppi   -> gerd
+fixation   -> right proximal humeral fracture
+a mechanical fall   -> a hip and arm fracture
+ekg   -> 1st deg block
+ekg   -> new twi inf/lat leads
+ekg   -> new st depressions v4-6
+ekg   -> lad
+placement   -> a bile leak from the duct of luschka
+endoscopic retrograde cholangiopancreatography   -> bile leak
+cholecystectomy   -> bile leak
+steri-strips   -> post laparoscopic incisions
+post laparoscopic incisions   -> erythema
+abdominal ct   -> small fluid in the circumferential thickening of the distal stomach
+abdominal ct   -> inflammation in the right upper quadrant
+her white blood cell count   -> really elevated
+her white blood cell count   -> a bandemia
+fentanyl   -> adverse reaction
+tongue injury   -> adverse reaction
+an abdominal ct   -> mild pancreatitis
+any drainage   -> intra-abdominal fluid collections
+fentanyl   -> jaw clenching
+fentanyl   -> her rigidity
+interstitial cystitis   -> urinary frequency
+anesthesia   -> groggy
+infection   -> her fevers
+infection   -> chills
+palpation of her abdomen   -> marked rebound
+stent placement   -> a bile leak
+an endoscopic retrograde cholangiopancreatography   -> a bile leak
+jaw clenching   -> biting tongue
+a successful endoscopic retrograde cholangiopancreatography   -> a bile leak at the duct of luschka
+tongue biting   -> jaw clenching
+cholecystectomy   -> a bile leak
+fentanyl   -> jaw clenching
+fentanyl   -> tongue biting
+fentanyl   -> rigidity
+an abdominal ct   -> thickened stomach
+an abdominal ct   -> free air
+a repeat mri   -> the previously noted enumerable hepatic cyst in her liver
+these cysts   -> hepatic candidiasis
+these cysts   -> lymphoma
+her white count   -> elevated
+sbp s   -> hypotension
+her g-csf   -> elevated
+burkitt's   -> lymphoma
+atarax   -> itching
+ambisome   -> her hepatic candidiasis
+abdominal pain   -> nausea
+abdominal pain   -> vomiting
+his pancreatitis   -> abdominal pain
+two ct scans   -> an enlargement of the head of his pancreas
+an ercp   -> a cystic lesion
+morphine sulfate   -> allergic
+ciprofloxacin   -> allergic
+a ct scan angiogram   -> pseudocyst
+a ct scan angiogram   -> enlarged pancreas head
+intravenous antibiotics   -> a documented alpha streptococcal septicemia
+abdominal examination   -> nondistended
+abdominal examination   -> nontender
+work-up   -> a cystic lesion
+droperidol   -> allergic
+sphincterotomy   -> pancreatitis
+the patient 's blood cultures   -> streptococcus sanguis-gordonii
+ct scan   -> a dilated common bile duct
+ct scan   -> a cystic lesion
+an ultrasound   -> wall thickening
+an ultrasound   -> a dilated common bile duct
+an mrcp   -> stones
+a hida scan   -> no flow
+a hida scan   -> pancreatitis
+a hida scan   -> common bile duct obstruction
+his complete blood count   -> 11% bandemia
+successful extraction   -> stone fragments
+pancreatitis   -> abdominal pain
+urinalysis   -> trace glucose
+urinalysis   -> ketones
+urinalysis   -> red cells
+urinalysis   -> white cells
+this procedure   -> complications
+an ultrasound guided biopsy   -> malignancy
+an ultrasound guided biopsy   -> this mass
+malignancy   -> this mass
+chronic pancreatitis   -> dilated pancreatic ducts
+chronic pancreatitis   -> calcifications
+calcifications   -> dilated pancreatic ducts
+esophageal dilatation   -> stricture
+any pain medications   -> pain
+this study   -> a forming pseudocyst
+chronic pancreatitis   -> mild biliary stricture
+this examination   -> mild biliary stricture
+this study   -> other abnormalities
+a endocarditis work-up   -> this documented septicemia
+pancreas protocol   -> pseudocyst
+pancreas protocol   -> enlarged pancreas head
+blood cultures   -> a documented alpha streptococcal septicemia
+a transthoracic echocardiogram   -> vegetations
+this echocardiogram   -> mildly dilated left atrium
+this echocardiogram   -> mild symmetric left ventricular hypertrophy
+this echocardiogram   -> valvular vegetations
+hypotensive   -> any symptoms
+intravenous lasix   -> hypotension
+the patient 's hematocrit   -> anemia
+her prednisone taper   -> her asthma
+recent chest x-ray   -> resolving right lower lobe pneumonia
+demand ischemia   -> hypertensive urgency
+vancomycin   -> your line infection
+sliding scale   -> dmi
+blood cultures   -> abscess at the site
+demand ischemia   -> original hypertensive urgency
+demand ischemia   -> persistent elevation of trop
+original hypertensive urgency   -> persistent elevation of trop
+heparin gtt   -> subtherapeuticon inr
+dialysis   -> difficulty
+somewhat uncomfortable   -> nausea
+somewhat uncomfortable   -> abdominal pain
+dialysis   -> esrd
+dialysis   -> difficulty
+esrd   -> htn
+esrd   -> dm
+hd   -> esrd
+vancomycin   -> his port line infection
+sbp   -> hypotensive
+vancomycin   -> his port line infection
+fsbs   -> hypoglycemia
+hd   -> esrd
+cad   -> cp
+cad   -> sob
+nph   -> dmi
+reglan   -> gastroparesis
+n/v   -> inability to take meds
+inability to take meds   -> hypertension
+tte   -> endocarditis
+a ultrasound   -> abscess at the site
+similar complaints   -> n/v/
+similar complaints   -> abdominal pain
+similar complaints   -> gastroparesis
+labile blood sugars   -> hypoglycemia
+dilaudid   -> gastroparesis
+av fistula   -> numerous clots
+av graft   -> clot
+ativan   -> gastroparesis
+his fs   -> critically high
+pain and anti-nausea meds   -> somnolent
+vancomycin   -> gpc in pairs and clusters
+drugs   -> known allergies
+a partial hd session   -> hypotension
+inability to toleral oral antihypertensive medication   -> diabetic gastropathy
+inability to toleral oral antihypertensive medication   -> hypertensive urgency
+cad   -> 1-vessel disease
+cad   -> 50% stenosis d1
+blood cultures   -> gpc in pairs and clusters
+hemodialysis   -> esrd
+port line infection   -> bacteremia
+bisacodyl   -> constipation
+intensive physical therapy   -> physically decompensated
+lidocaine jelly   -> the decubitus ulcer
+lidocaine jelly   -> discomfort
+discomfort   -> the decubitus ulcer
+a troponin   -> her current cardiac failure
+the wall motion abnormalities   -> a non-q wave myocardial infarction
+the wall motion abnormalities   -> her current cardiac failure
+a non-q wave myocardial infarction   -> her current cardiac failure
+chest x-ray   -> congestive heart failure
+left axis deviation   -> poor r-wave progression
+echocardiogram   -> moderately depressed left ventricular systolic function
+echocardiogram   -> hypokinesis of the lower half of septum and apex
+mra of the kidney   -> renal artery stenosis
+mra of the kidney   -> severe right renal artery stenosis at its origin
+her hypertension   -> renal artery stenosis
+her creatinine   -> worsened
+stent left renal artery   -> bilateral renal artery stenosis
+ct scan   -> diagnosed liver laceration
+hydromorphone   -> pain
+a pca   -> pain
+po medication   -> pain
+the liver laceration   -> further complication
+the liver laceration   -> rupture
+surgical managment   -> the liver laceration
+surgical managment   -> further complication
+surgical managment   -> rupture
+auscultation   -> murmors
+percocet   -> pain
+chest pain   -> nausea
+protonix   -> peptic ulcer disease
+oral medication   -> his pain
+elevated psa   -> prostate cancer
+tracheostomy   -> complication
+zosyn   -> aspiration
+zosyn   -> mrsa pneumonia
+mrsa pneumonia   -> aspiration
+linazolid   -> fevers
+linazolid   -> decreased pulmonary secretions
+linazolid   -> mrsa pneumonia
+linazolid   -> aspiration
+levo   -> aspiration
+levo   -> mrsa pneumonia
+vanc   -> aspiration
+vanc   -> mrsa pneumonia
+congestion   -> edema
+bisacodyl   -> constipation
+colostomy   -> ulcerative colitis
+cva   -> right sided weakness
+serial ct head   -> decreased blood
+chronic microvascular infarction   -> decreased attenuation in the periventricular and subcortical white matter
+intubated   -> desats
+non-contrast head ct   -> a small amount of hemorrhage
+subarachnoid hemorrhage   -> bilateral intraventricular hemorrhage
+magnesium hydroxide   -> consitpation
+nasogastric tube placement   -> extreme head tilting to the right
+intubation   -> extreme head tilting to the right
+noncontrast cervical spine ct   -> minimally displaced and comminuted fractures through the left c7 and t1 transverse processes
+sedated   -> desats
+sclerosis   -> opacification of the visualized left mastoid air cells and mastoid tip
+biapical lung scarring   -> mild bronchiectasis
+pneumonia   -> right upper lobe consolidation
+contrast - enhanced mri of the brain   -> an intraventricular mass
+contrast - enhanced mri of the brain   -> an atypically located blood clot
+the previous study   -> a small amount of blood layering in both lateral ventricles
+coumadin   -> atrial fibrillation
+cataract surgery   -> cataracts
+ativan   -> agitation
+haldol   -> agitation
+ct head   -> sah
+significant radiographic change   -> right upper lobe consolidation
+trauma   -> rib fx
+portable supine chest radiograph   -> edema
+portable supine chest radiograph   -> right upper lobe consolidation
+portable supine chest radiograph   -> significant radiographic change
+air-fluid levels   -> occult facial fractures
+a hinged mcdonald brace   -> his lle
+pneumocephalus   -> the linear skull fracture
+oxycodone   -> pain
+a side plate   -> the fracture
+six proximal and two distal screws   -> a proximal diaphyseal comminuted tibial fracture
+sulfa   -> allergic
+an intramedullary rod   -> a proximal diaphyseal comminuted tibial fracture
+his first unit of packed cells   -> transfusion reaction
+s/p fixation   -> open rle fx
+pcn   -> allergic
+eval   -> fx
+small associated right posterior convexity subdural hematoma   -> pneumocephalus
+linear right temporal calvarial fracture   -> small associated right posterior convexity subdural hematoma
+linear right temporal calvarial fracture   -> pneumocephalus
+linear right temporal calvarial fracture   -> pneumocephalus
+linear right temporal calvarial fracture   -> a small right posterior convexity subdural hematoma
+associated skull fracture   -> a left occipital scalp contusion
+a small subdural hematoma   -> pneumocephalus
+magnesium hydroxide   -> constipation
+an intramedullary rod and side plate   -> comminuted proximal tibiofibular fractures
+eval   -> bleed
+persistent bifrontal and right parietal hemorrhagic contusions   -> small left frontal subarachnoid hemorrhage
+persistent bifrontal and right parietal hemorrhagic contusions   -> surrounding edema
+open reduction   -> right tib/fib fractures
+multifocal hemorrhagic contusions   -> surrounding edema
+internal fixation   -> right tib/fib fractures
+the remaining 2 units   -> any further reaction
+status post orif of the tibia   -> comminuted proximal tibiofibular fractures
+ultrasound   -> severe portal hypertension
+ultrasound   -> massive peri splenic varices
+massive peri splenic varices   -> severe portal hypertension
+splenorenal shunt   -> severe portal hypertension
+splenorenal shunt   -> massive peri splenic varices
+egd   -> 5 cores of varices
+worsening confusion   -> lethargy
+positive esophageal varices   -> hepatitis c cirrhosis
+the symptoms   -> lethargy
+the symptoms   -> confusion
+confusion   -> increased lethargy
+encephalopathy   -> hepatitis c cirrhosis
+a decreased and sluggish flow within the right and left hepatic veins   -> loss of normal respiratory variations , wave forms and the intrahepatic portion
+short-term ultrasounds   -> caval narrowing
+the ct   -> caval narrowing
+caffeine citrate   -> apnea
+caffeine citrate   -> bradycardia of prematurity
+2 vessel cord   -> ivf pregnancy
+ivf pregnancy   -> iugr
+cesarean section   -> pprom
+cesarean section   -> bleeding
+cesarean section   -> transverse lie
+bleeding   -> pprom
+transverse lie   -> pprom
+antibiotic   -> sepsis
+the child 's life immunizations   -> influenza
+x-ray   -> mild respiratory distress syndrome
+synagis rsv prophylaxis   -> neuromuscular disease
+synagis rsv prophylaxis   -> chronic lung disease
+synagis rsv prophylaxis   -> weight abnormalities
+drainage   -> her effusion
+her effusion   -> her sob
+cxr   -> consolidations
+a left thoracentesis   -> her effusions
+her effusions   -> transudative
+her effusions   -> chf
+her effusions   -> chf
+tube   -> ptx
+enzymes   -> mi
+boluses   -> low amounts of urine
+mary studies   -> transudate
+a lasix drip iv   -> net positive fluid balance
+iv lasix gtt   -> low amounts of urine
+sob   -> chf
+sob   -> her copd
+aggressive diuresis   -> low amounts of urine
+her urine lytes   -> atn
+lung volumes   -> low
+ecg   -> lbbb
+ecg   -> st or tw changes
+2 echocardiograms   -> persistent pericardial effusions
+pacer placement   -> a complication
+pacer placement   -> her large pericardial effusion
+her large pericardial effusion   -> a complication
+tte   -> rv diastolic collapse
+tte   -> mod-lg circumferential pericardial eff
+tte   -> tamponade
+diuresis   -> her o2 requirement
+exam   -> tamponade
+transudate   -> chf
+ct placement   -> a ptx
+studies   -> transudate
+exam   -> chf
+her 05-28 cxr   -> right pleural effusion
+cr   -> arf
+hypoxic respiratory failure   -> pulmonary edema
+pacer placement   -> sick sinus syndrome
+her 05-27 cxr   -> pnx
+her 05-27 cxr   -> effusion
+imaging   -> a complication
+pafib   -> sss
+echo   -> change in appearance of effusion
+a right sided thoracentesis   -> transudative fluid
+pacer   -> perforation
+drainage   -> right pleural effusion
+renal u/s   -> hydronephrosis
+head ct   -> atrophy
+head ct   -> dense calcification of the tentorium
+pericardial drainage   -> change in appearance of effusion
+nc   -> her oxygen requirement
+u/a   -> uti
+ivf   -> her arf
+a tte   -> rv diastolic collapse
+a tte   -> tamponade
+a tte   -> mod-lg circumferential pericardial effusion
+pacer   -> symptomatic pauses
+cxr   -> opacity
+drainage   -> large pericardial effusion
+nrb   -> her oxygen requirement
+tte   -> large pericardial effusion
+treatment   -> chf
+a cxr   -> stable cardiomegaly
+a cxr   -> rll infiltrate
+a cxr   -> moderate sized bilateral pleural effusions
+pericardial effusion   -> rv perforation
+pleural effusions   -> chf
+pleural effusions   -> some leukocytosis
+floridly positive   -> levo-resistant
+ua   -> floridly positive
+ua   -> levo-resistant
+her amiodarone   -> her nausea
+afib   -> sss
+cxr   -> bilateral pleural eff
+cxr   -> pericardial eff
+sss   -> afib
+morphine gtt   -> air hunger
+the lung volumes   -> bilateral pleural effusions
+chest ct   -> underlying consolidations
+chest ct   -> atelectasis
+oliguric arf   -> n/v
+oliguric arf   -> poor po intake
+oliguric arf   -> poor forward flow
+chest tube   -> ptx
+drainage   -> bilateral pleural effusions
+drainage   -> bilateral pleural effusions
+pacer dddr ( vitatron cl860 )   -> sss
+pacer dddr ( vitatron cl860 )   -> symptomatic bradycardia
+sss   -> symptomatic bradycardia
+pericardial effusion drainage   -> a large pericardial effusion
+pacer   -> rv perforation
+treatment   -> chf
+tte   -> chf
+chf   -> diastolic dysfunction
+moderate to large pericardial effusion   -> minimal fluid anteriorly
+moderate to large pericardial effusion   -> bloody
+echo   -> tamponade
+pacer   -> sss
+pacer   -> afib
+her urine output   -> decreased
+zosyn   -> right lower lobe infiltrate
+chest tube   -> r ptx
+ct   -> ptx
+bilat pleural eff   -> underlying consolidation
+bilat pleural eff   -> pna
+bilat pleural eff   -> atelectasis
+underlying consolidation   -> pna
+underlying consolidation   -> atelectasis
+a-paced   -> afib/sss
+ct chest   -> large pericardial effusion
+ct chest   -> bilat pleural eff
+ct chest   -> underlying consolidation
+most recent cxr   -> ptx
+vanco   -> right lower lobe infiltrate
+boluses of iv lasix   -> net positive fluid balance
+cxr   -> cardiomegaly
+cxr   -> pulm edema
+a tee   -> an abnormality of the aortic valve
+acute hypertensive nephropathy   -> long-standing hypertensive disease
+renal failure   -> acute hypertensive nephropathy
+strain pattern   -> lvh
+ekg   -> ischemic changes
+ekg   -> lvh
+ekg   -> strain pattern
+creatinine   -> acute hypertensive nephropathy
+creatinine   -> long-standing hypertensive disease
+diastolic bp   -> elevated
+diuresis   -> his lower extremity edema
+end-organ damage   -> elevated creatinine
+elevated creatinine   -> a chronic problem
+nitroprusside gtt   -> elevated
+moderate to severe enlargement of the cardiac silhouette   -> pulmonary vascular congestion
+moderate to severe enlargement of the cardiac silhouette   -> mild pulmonary edema
+severe free wall hypokinesis   -> mildly dilated
+tissue doppler imaging   -> an increased left ventricular filling pressure
+moderate symmetric left ventricular hypertrophy   -> mild cavity dilation
+moderate symmetric left ventricular hypertrophy   -> severe global hypokinesis
+le edema   -> doe
+le edema   -> diastolic heart failure
+le edema   -> hypertensive urgency
+doe   -> diastolic heart failure
+doe   -> hypertensive urgency
+ecg   -> lvh
+moderate symmetric eft ventricular hypertrophy   -> severe global biventricular hypokinesis
+moderate symmetric eft ventricular hypertrophy   -> diffuse process
+diffuse process   -> severe global biventricular hypokinesis
+dyspnea   -> 2-pillow orthopnea
+dyspnea   -> pnd
+abnormality on the aortic valve   -> aortic regurgitation
+heart failure   -> moderate to severe enlargement of the cardiac silhouette
+heart failure   -> pulmonary vascular congestion
+heart failure   -> mild pulmonary edema
+treatment   -> unconjungated hyperbilirubinemia
+phototherapy   -> unconjungated hyperbilirubinemia
+immunization   -> influenza
+state newborn screens   -> abnormal results
+treatment   -> prematurity
+oxycodone   -> pain
+acetaminophen   -> pain
+a diet of thin liquids and soft solids   -> his loose teeth
+powders   -> incisions
+lotions   -> incisions
+exertional angina   -> positive ett
+creams   -> incisions
+removal   -> cataracts
+removal   -> cataracts
+cath   -> severe 3vd
+cardiac catheterization   -> two vessel disease
+plavix   -> a small stroke
+examination   -> weakness
+coumadin   -> apical akinesis
+coumadin   -> stroke risk
+left anterior descending artery stent   -> st elevation myocardial infarction
+telemetry   -> significant events
+icd placement   -> sudden cardiac death
+coumadin   -> significant apical akinesis
+coumadin   -> apical akinesis
+heparin   -> significant apical akinesis
+heparin   -> apical akinesis
+stroke prevention   -> apical akinesis
+stroke prevention   -> significant apical akinesis
+anticoagulation   -> apical akinesis
+anticoagulation   -> significant apical akinesis
+a tp3a inhibitor   -> dissection
+atorvastatin   -> muscle cramping
+examination   -> neurologic deficit
+an aspirin   -> a small stroke
+further management   -> her coronary artery disease
+the pain   -> diaphoresis
+the pain   -> nausea
+further evaluation   -> her remaining rca lesions
+a 90% lesion   -> a 95% stenosis
+a 90% lesion   -> 99% stenosis
+these side effects   -> muscle cramping
+ampicillin   -> sepsis risk factor
+gentamycin   -> sepsis risk factor
+influenza immunization   -> chronic lung disease
+cesarean section   -> progressive preterm labor
+cesarean section   -> rupture of membranes
+immunization   -> influenza
+drugs   -> known allergies
+bilateral pelvic lymph node dissection   -> metastatic bladder ca
+ct scan   -> a right psoas mass
+a right psoas mass   -> a hematoma
+radical prstatectomy   -> metastatic bladder ca
+a ct scan of your abdomen   -> a right pelvic mass
+cystectomy   -> metastatic bladder ca
+a hematoma   -> a right pelvic mass
+ileal loop urinary diversion   -> metastatic bladder ca
+chemo/xrt   -> metastatic bladder ca
+anticoagulation   -> bleeding
+ileal conduit   -> recurrent bladder ca
+cystectomy   -> recurrent bladder ca
+red blood cell scan   -> right lower quadrant source of bleed
+cscope   -> tics
+lovenox   -> recurrent dvt s
+percocet   -> pain
+thrombolytic therapy   -> an acute inferior myocardial infarction
+catheterization   -> mitral regurgitation
+catheterization   -> insufficiency
+catheterization   -> hypokinesis
+electrographic evidence   -> seizure activity
+the eeg   -> transient sharp waves in the left front
+their evaluation   -> gastroesophageal reflux
+seizures   -> dusky episodes
+zoloft   -> depression
+a second episode   -> pale
+a serum bilirubin   -> mild physiologic jaundice
+a keyhole appearance   -> a coloboma
+this episode   -> gagging motions
+this left martha coloboma   -> an isolated anomaly
+unequal in size   -> a keyhole appearance
+unequal in size   -> a coloboma
+a counselor   -> very depressed
+bran atrophy   -> right temporal encephalomalacia
+auscultation bilaterally   -> rare crackles on the right base
+4 leather restraints   -> agitated
+repeat colonoscopy   -> colonic polyp
+valium   -> withdrawal
+the chest x-ray   -> a band-like opacity in the left lower lobe
+ciwa scale   -> tremor
+ativan   -> agitated
+observations   -> delirium tremens
+chest x-ray   -> linear atelectasis in right lower lobe
+chest x-ray   -> a band-like opacity in the left lower lobe
+the ciwa scale   -> alcohol withdrawal
+a systolic blood pressure   -> hypotensive
+elevated ck   -> mild rhabdomyolysis
+ativan   -> subsequent hypotension
+ct of the head   -> hemorrhage
+monitor   -> alcohol withdrawal
+repeat colonoscopy   -> colonic polyps
+haldol   -> subsequent hypotension
+chest x-ray   -> atelectasis in the right lower lobe
+iv fluids   -> rhabdomyolysis
+haldol   -> agitated
+valium   -> alcohol withdrawal
+increased agitation   -> etoh intoxication
+stent placement   -> a long lad lesion
+nasal cannula   -> copd
+a bedside transthoracic echocardiogram   -> an effusion
+further monitoring   -> hypotensive
+further monitoring   -> bradycardiac
+angioplasty   -> an 80 percent mid lad lesion
+gi bleed   -> guaiac positive stools
+gi bleed   -> a slight drop in his hematocrit
+guaiac positive stools   -> a slight drop in his hematocrit
+02   -> copd
+a ck   -> a non-st elevation mi
+stent   -> an 80 percent lad lesion
+atropine   -> hypotensive
+atropine   -> bradycardiac
+vagal reaction   -> hypotension
+vagal reaction   -> bradycardia
+cardiac catheterization   -> a total occlusion of the rca
+cardiac catheterization   -> a long lad lesion
+the symptoms   -> diaphoresis
+the symptoms   -> shortness of breath
+angioplasty   -> 80 percent mid lad lesion
+angioplasty   -> non-st elevation myocardial infarction
+angioplasty   -> coronary artery disease
+coronary artery disease   -> non-st elevation myocardial infarction
+coronary artery disease   -> 80 percent mid lad lesion
+atrovent mdi   -> copd
+albuterol   -> copd
+transient dopamine   -> hypotension
+transient dopamine   -> bradycardia
+troponin   -> a non-st elevation mi
+his plavix   -> guaiac positive stools
+his plavix   -> hematocrit drop
+iv fluids   -> hypotension
+iv fluids   -> bradycardia
+stent placement   -> an 80 percent mid lad lesion
+first-degree av block   -> prolonged pr interval
+cardiac catheterization   -> an 80 percent lad lesion
+cardiac catheterization   -> a totally occluded rca
+the initial ekg   -> first-degree av block
+the initial ekg   -> prolonged pr interval
+a non-st elevation mi   -> an 80 percent mid lad lesion
+his plavix   -> gi bleed
+a peak ck mb   -> a non-st elevation mi
+atropine   -> hypotension
+atropine   -> bradycardia
+guaiac positive   -> gi bleed
+guaiac positive   -> guaiac positive stools
+guaiac positive   -> a slight drop in his hematocrit
+dopamine   -> hypotensive
+dopamine   -> bradycardiac
+iv fluids   -> hypotensive
+iv fluids   -> bradycardiac
+home 02   -> copd
+ptca   -> mid lad lesion
+chronic renal insufficiency   -> hypertension
+a creatinine   -> chronic renal insufficiency
+lasix   -> recurrent hypokalemia
+take po liquids   -> volume depletion
+bp control   -> her coronary disease
+plavix   -> failure of these stents
+oxycodone   -> pain
+the patient 's recent rp bleed   -> a recurrent bleed
+albuterol sulfate   -> wheezing
+albuterol sulfate   -> shortness of breath
+the hypotension   -> volume depletion
+the hypotension   -> her diarrhea
+the hypotension   -> loose stools
+the hypotension   -> decreased po intake
+volume depletion   -> her diarrhea
+volume depletion   -> loose stools
+volume depletion   -> decreased po intake
+decreased po intake   -> her gerd
+decreased po intake   -> thrush
+volume depletion   -> her low bp
+ns   -> hypotension
+resolving abdominal hematoma   -> irritation of gi system
+endoscopy   -> her guiac pos stools
+po prednisone   -> thrush
+po prednisone   -> copd exacerbation
+diarrhea   -> loose stools
+your aspirin   -> failure of these stents
+her guiac positive stools   -> gastritis
+her guiac positive stools   -> gastric ulcer
+her guiac positive stools   -> lower gi pathology
+rapid atrial fibrillation   -> demand ischemia
+meds   -> occ nausea
+axr   -> obstruction
+her steroid inhalers   -> thrush
+her steroid inhalers   -> copd exacerbation
+h.pylori serologies   -> her guiac pos stools
+her mild diarrhea   -> viral
+her mild diarrhea   -> resolving abdominal hematoma
+her mild diarrhea   -> irritation of gi system
+her mild diarrhea   -> few loose bm
+her mild diarrhea   -> liquid stool
+medications   -> only mild nausea
+the patient 'd pm bp meds   -> hypotension
+egd   -> her guiac pos stools
+toprol xl   -> her coronary disease
+arresting regional wall motion abnormality   -> focal apical hypokinesis
+examination   -> lifts
+examination   -> heaves
+an echocardiogram   -> a mildly dilated left atrium
+an echocardiogram   -> mild symmetric lvh
+an echocardiogram   -> mild region lv systolic dysfunction
+an echocardiogram   -> arresting regional wall motion abnormality
+an echocardiogram   -> focal apical hypokinesis
+an echocardiogram   -> a moderately dilated aortic root
+an echocardiogram   -> a mildly dilated ascending aorta
+an echocardiogram   -> pericardial effusions
+beta blocker   -> hypertension
+a transdermal nicotine patch   -> cravings
+integrilin   -> mi
+nitroglycerin   -> chest pain
+nitroglycerin   -> pressure
+nitroglycerin   -> shortness of breath
+aspirin   -> his coronary artery disease
+coronary angiography   -> left lad with 99% midstenosis
+a relook catheterization   -> occlusions
+a relook catheterization   -> the chest pain
+diltiazem   -> residuals
+telemetry   -> ectopy
+unremitting 12-05 pain   -> diaphoresis
+unremitting 12-05 pain   -> shortness of breath
+ace inhibitor   -> hypertension
+lad stent   -> an st elevation mi
+lad stent   -> residuals
+the first ekg   -> t wave inversions
+the first ekg   -> st elevations in v1-v3
+nitroglycerin   -> residuals
