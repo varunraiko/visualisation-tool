@@ -1,5 +1,3 @@
-search to support different colors
-No overlapping 
-API call
-Scroll for medical terms
-Node frequency
+search to support different colors(right now only four colors are supported
+No overlapping( needs more time as I want to generalise the gexf file for all purposes) 
+Scroll for medical terms ( Needs more time)
