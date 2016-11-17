@@ -1,0 +1,28 @@
+Frequent Itemsets
+
+The script file is in the folder code/freqItemsets , run the file then the user would be asked to give a support value as input and then the frequent
+itemsets will be displayed
+
+Run as: python categorise_terms.py
+
+Visualisation Tool
+
+Features in the tool:
+
+1) Filters by: 
+   a) Node Degree: All nodes greater than a particular value for degree are displayed.
+   b) Node Frequency: All nodes greater than a particular frequency are displayed.
+   c) Edge Weight: All edgess greater than a particular weight are displayed.
+   d) Node Type: All nodes which belong to a particular type are displayed. The types being Treatement, Test and Problem
+   a) Node Degree: All nodes greater than a particular value are displayed. These values can be changed by the user.
+
+2) Search box to find any medical term in the graph that is visualised. In the search we actually match the query that we searched in our search box with
+all of the nodes and all the nodes which have that query are displayed. The shape and color of the searched nodes are changed. Currently we support 4 
+searches after which these colors repeat themselves.
+
+3) Zoom in and out: This is highly important as the graph we visualise is a dense one and to see connection the zoom feature is essential.
+
+4) Reset Filters: This is used to reset the graph to the original state. All nodes are restored to original color and size.
+
+5) Node labels are attached and you can see when you hover on the node.
+
